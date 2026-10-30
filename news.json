@@ -1,0 +1,16 @@
+{
+  "_howto": [
+    "Put a notice in the strip under the nav by adding an object to items.",
+    "Required: date (YYYY-MM-DD) and text. Optional: url and linkText.",
+    "Anything dated more than 7 days ago stops showing by itself.",
+    "An empty items list shows nothing at all - no element is created.",
+    "url can be internal (?page=women, ?product=slug) or a full https:// link."
+  ],
+  "_example": {
+    "date": "2026-11-01",
+    "text": "New drop: the Resurface denim tee is live in four colorways.",
+    "url": "?page=women",
+    "linkText": "Shop women"
+  },
+  "items": []
+}

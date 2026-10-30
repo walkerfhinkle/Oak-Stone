@@ -1,0 +1,1578 @@
+{
+ "version": 2,
+ "generated_at": "2026-10-29T23:16:01.032Z",
+ "products": {
+  "denim-t-shirt-resurface": {
+   "name": "Resurface - Oak & Stone Denim Tee",
+   "depts": {
+    "men": {
+     "all": [
+      "Men/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-black-main-6adca1ee76e2b.jpg",
+      "Men/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-black-front-6adca1ee7465b.jpg",
+      "Men/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-black-left-front-6adca1ee77c67.jpg",
+      "Men/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-dark-army-green-front-6adca1ee750c5.jpg",
+      "Men/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-dark-army-green-front-6adca1ee7737e.jpg",
+      "Men/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-dark-army-green-left-front-6adca1ee77cf1.jpg",
+      "Men/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-denim-blue-front-6adca1ee758bb.jpg",
+      "Men/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-denim-blue-front-6adca1ee773bf.jpg"
+     ],
+     "byColor": {
+      "Black": [
+       "Men/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-black-main-6adca1ee76e2b.jpg",
+       "Men/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-black-front-6adca1ee7465b.jpg",
+       "Men/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-black-left-front-6adca1ee77c67.jpg",
+       "Men/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-black-back-6adca1ee777a3.jpg"
+      ],
+      "Dark Army Green": [
+       "Men/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-dark-army-green-front-6adca1ee750c5.jpg",
+       "Men/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-dark-army-green-front-6adca1ee7737e.jpg",
+       "Men/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-dark-army-green-left-front-6adca1ee77cf1.jpg",
+       "Men/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-dark-army-green-back-6adca1ee76eb4.jpg",
+       "Men/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-dark-army-green-back-6adca1ee777eb.jpg"
+      ],
+      "Denim Blue": [
+       "Men/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-denim-blue-front-6adca1ee758bb.jpg",
+       "Men/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-denim-blue-front-6adca1ee773bf.jpg",
+       "Men/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-denim-blue-left-front-6adca1ee77d33.jpg",
+       "Men/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-denim-blue-back-6adca1ee76f0c.jpg",
+       "Men/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-denim-blue-back-6adca1ee77822.jpg"
+      ],
+      "Garnet Red": [
+       "Men/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-garnet-red-front-6adca1ee760c6.jpg",
+       "Men/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-garnet-red-front-6adca1ee773f5.jpg",
+       "Men/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-garnet-red-left-front-6adca1ee77d7f.jpg",
+       "Men/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-garnet-red-back-6adca1ee76f49.jpg",
+       "Men/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-garnet-red-back-6adca1ee77856.jpg"
+      ]
+     }
+    },
+    "women": {
+     "all": [
+      "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-black-main-6ae3b4c06135f.jpg",
+      "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-black-front-6ae3b4c061c0e.jpg",
+      "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-dark-army-green-front-6ae3b4c0614ef.jpg",
+      "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-dark-army-green-front-6ae3b4c062021.jpg",
+      "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-denim-blue-front-6ae3b4c06152f.jpg",
+      "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-denim-blue-front-6ae3b4c0623b7.jpg",
+      "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-garnet-red-front-6ae3b4c061562.jpg",
+      "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-garnet-red-front-6ae3b4c062773.jpg"
+     ],
+     "byColor": {
+      "Black": [
+       "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-black-main-6ae3b4c06135f.jpg",
+       "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-black-front-6ae3b4c061c0e.jpg",
+       "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-black-back-6ae3b4c062c6d.jpg",
+       "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-black-zoomed-in-2-6ae3b4c06198b.jpg",
+       "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-black-zoomed-in-6ae3b4c06171e.jpg"
+      ],
+      "Dark Army Green": [
+       "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-dark-army-green-front-6ae3b4c0614ef.jpg",
+       "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-dark-army-green-front-6ae3b4c062021.jpg",
+       "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-dark-army-green-back-6ae3b4c062cb8.jpg",
+       "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-dark-army-green-zoomed-in-2-6ae3b4c0619ec.jpg",
+       "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-dark-army-green-zoomed-in-6ae3b4c061763.jpg"
+      ],
+      "Denim Blue": [
+       "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-denim-blue-front-6ae3b4c06152f.jpg",
+       "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-denim-blue-front-6ae3b4c0623b7.jpg",
+       "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-denim-blue-back-6ae3b4c062cf4.jpg",
+       "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-denim-blue-zoomed-in-2-6ae3b4c061a25.jpg",
+       "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-denim-blue-zoomed-in-6ae3b4c061797.jpg"
+      ],
+      "Garnet Red": [
+       "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-garnet-red-front-6ae3b4c061562.jpg",
+       "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-garnet-red-front-6ae3b4c062773.jpg",
+       "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-garnet-red-back-6ae3b4c062d37.jpg",
+       "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-garnet-red-zoomed-in-2-6ae3b4c061a5a.jpg",
+       "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-garnet-red-zoomed-in-6ae3b4c0617c6.jpg"
+      ]
+     }
+    }
+   }
+  },
+  "women-s-relaxed-t-shirt-fragile-light": {
+   "name": "I'm Not Fragile - Oak & Stone Relaxed Tee",
+   "depts": {
+    "women": {
+     "all": [
+      "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-light-violet-main-6adca2b1234fb.jpg",
+      "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-athletic-heather-front-6adca2b1231fa.jpg",
+      "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-athletic-heather-front-6adca2b123fce.jpg",
+      "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-athletic-heather-front-6adca2b124654.jpg",
+      "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-athletic-heather-left-front-6adca2b123910.jpg",
+      "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-heather-blue-lagoon-front-6adca2b123302.jpg",
+      "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-heather-blue-lagoon-front-6adca2b124065.jpg",
+      "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-heather-blue-lagoon-front-6adca2b125018.jpg"
+     ],
+     "byColor": {
+      "Light Violet": [
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-light-violet-main-6adca2b1234fb.jpg",
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-light-violet-front-6adca2b127edc.jpg",
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-light-violet-left-front-6adca2b123bb8.jpg",
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-light-violet-back-6adca2b128d63.jpg",
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-light-violet-left-6adca2b129270.jpg",
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-light-violet-right-6adca2b12975f.jpg"
+      ],
+      "Athletic Heather": [
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-athletic-heather-front-6adca2b1231fa.jpg",
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-athletic-heather-front-6adca2b123fce.jpg",
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-athletic-heather-front-6adca2b124654.jpg",
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-athletic-heather-left-front-6adca2b123910.jpg",
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-athletic-heather-back-6adca2b128bbe.jpg",
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-athletic-heather-left-6adca2b1290e9.jpg",
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-athletic-heather-right-6adca2b1295eb.jpg"
+      ],
+      "Heather Blue Lagoon": [
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-heather-blue-lagoon-front-6adca2b123302.jpg",
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-heather-blue-lagoon-front-6adca2b124065.jpg",
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-heather-blue-lagoon-front-6adca2b125018.jpg",
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-heather-blue-lagoon-left-front-6adca2b1239b6.jpg",
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-heather-blue-lagoon-back-6adca2b128c2c.jpg",
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-heather-blue-lagoon-left-6adca2b129143.jpg",
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-heather-blue-lagoon-right-6adca2b129638.jpg"
+      ],
+      "Heather Mauve": [
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-heather-mauve-front-6adca2b123372.jpg",
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-heather-mauve-front-6adca2b1240c8.jpg",
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-heather-mauve-front-6adca2b12598a.jpg",
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-heather-mauve-left-front-6adca2b123a36.jpg",
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-heather-mauve-back-6adca2b128c6f.jpg",
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-heather-mauve-left-6adca2b129180.jpg",
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-heather-mauve-right-6adca2b129675.jpg"
+      ],
+      "Heather Stone": [
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-heather-stone-front-6adca2b1233e1.jpg",
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-heather-stone-front-6adca2b124131.jpg",
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-heather-stone-front-6adca2b1262ac.jpg",
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-heather-stone-left-front-6adca2b123aa3.jpg",
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-heather-stone-back-6adca2b128cb3.jpg",
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-heather-stone-left-6adca2b1291c5.jpg",
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-heather-stone-right-6adca2b1296b4.jpg"
+      ],
+      "Pink": [
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-pink-front-6adca2b123443.jpg",
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-pink-front-6adca2b124189.jpg",
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-pink-front-6adca2b126c5f.jpg",
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-pink-left-front-6adca2b123b01.jpg",
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-pink-back-6adca2b128cf0.jpg",
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-pink-left-6adca2b129200.jpg",
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-pink-right-6adca2b1296ef.jpg"
+      ],
+      "White": [
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-white-front-6adca2b1234a0.jpg",
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-white-front-6adca2b1241f3.jpg",
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-white-front-6adca2b1275cd.jpg",
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-white-left-front-6adca2b123b5d.jpg",
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-white-back-6adca2b128d2a.jpg",
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-white-left-6adca2b129238.jpg",
+       "Women/I'm Not Fragile - Oak & Stone Relaxed Tee/womens-relaxed-t-shirt-white-right-6adca2b129727.jpg"
+      ]
+     }
+    }
+   }
+  },
+  "yoga-leggings-i-see-you-black": {
+   "name": "I See You - Oak & Stone Black Yoga Pants",
+   "depts": {
+    "women": {
+     "all": [
+      "Women/I See You - Oak & Stone Black Yoga Pants/all-over-print-yoga-leggings-white-main-6adca36f20fcf.jpg",
+      "Women/I See You - Oak & Stone Black Yoga Pants/all-over-print-yoga-leggings-white-front-6adca36f1fd2b.jpg",
+      "Women/I See You - Oak & Stone Black Yoga Pants/all-over-print-yoga-leggings-white-front-6adca36f20539.jpg",
+      "Women/I See You - Oak & Stone Black Yoga Pants/all-over-print-yoga-leggings-white-front-6adca36f2090e.jpg",
+      "Women/I See You - Oak & Stone Black Yoga Pants/all-over-print-yoga-leggings-white-left-front-6adca36f21322.jpg",
+      "Women/I See You - Oak & Stone Black Yoga Pants/all-over-print-yoga-leggings-white-back-6adca36f20126.jpg",
+      "Women/I See You - Oak & Stone Black Yoga Pants/all-over-print-yoga-leggings-white-left-6adca36f1f939.jpg",
+      "Women/I See You - Oak & Stone Black Yoga Pants/all-over-print-yoga-leggings-white-left-6adca36f20fcf.jpg"
+     ],
+     "byColor": null
+    }
+   }
+  },
+  "unisex-t-shirt-os-logo-dark-embroidered": {
+   "name": "Embroidered Logo - Oak & Stone Dark Tee",
+   "depts": {
+    "men": {
+     "all": [
+      "Men/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-black-heather-main-2-6ae130b5305d0.jpg",
+      "Men/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-black-heather-front-6ae130b52f1c6.jpg",
+      "Men/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-black-heather-front-6ae130b52f956.jpg",
+      "Men/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-black-heather-front-6ae130b53035d.jpg",
+      "Men/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-dark-grey-heather-front-2-6ae130b530610.jpg",
+      "Men/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-dark-grey-heather-front-6ae130b52f36e.jpg",
+      "Men/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-dark-grey-heather-front-6ae130b52f9a7.jpg",
+      "Men/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-dark-grey-heather-front-6ae130b5303aa.jpg"
+     ],
+     "byColor": {
+      "Black Heather": [
+       "Men/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-black-heather-main-2-6ae130b5305d0.jpg",
+       "Men/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-black-heather-front-6ae130b52f1c6.jpg",
+       "Men/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-black-heather-front-6ae130b52f956.jpg",
+       "Men/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-black-heather-front-6ae130b53035d.jpg",
+       "Men/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-black-heather-back-6ae130b52fc11.jpg",
+       "Men/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-black-heather-left-6ae130b52fe7f.jpg",
+       "Men/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-black-heather-right-6ae130b53007d.jpg"
+      ],
+      "Dark Grey Heather": [
+       "Men/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-dark-grey-heather-front-2-6ae130b530610.jpg",
+       "Men/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-dark-grey-heather-front-6ae130b52f36e.jpg",
+       "Men/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-dark-grey-heather-front-6ae130b52f9a7.jpg",
+       "Men/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-dark-grey-heather-front-6ae130b5303aa.jpg",
+       "Men/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-dark-grey-heather-back-6ae130b52fc5b.jpg",
+       "Men/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-dark-grey-heather-left-6ae130b52fec6.jpg",
+       "Men/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-dark-grey-heather-right-6ae130b5300cd.jpg"
+      ],
+      "Heather Emerald": [
+       "Men/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-heather-emerald-front-2-6ae130b53067f.jpg",
+       "Men/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-heather-emerald-front-6ae130b52f430.jpg",
+       "Men/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-heather-emerald-front-6ae130b52fa2e.jpg",
+       "Men/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-heather-emerald-front-6ae130b53041a.jpg",
+       "Men/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-heather-emerald-back-6ae130b52fcd8.jpg",
+       "Men/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-heather-emerald-left-6ae130b52ff38.jpg",
+       "Men/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-heather-emerald-right-6ae130b530141.jpg"
+      ],
+      "Heather Midnight Navy": [
+       "Men/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-heather-midnight-navy-front-2-6ae130b53064a.jpg",
+       "Men/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-heather-midnight-navy-front-6ae130b52f3d9.jpg",
+       "Men/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-heather-midnight-navy-front-6ae130b52f9f0.jpg",
+       "Men/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-heather-midnight-navy-front-6ae130b5303e3.jpg",
+       "Men/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-heather-midnight-navy-back-6ae130b52fc93.jpg",
+       "Men/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-heather-midnight-navy-left-6ae130b52feff.jpg",
+       "Men/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-heather-midnight-navy-right-6ae130b530109.jpg"
+      ]
+     }
+    },
+    "women": {
+     "all": [
+      "Women/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-black-heather-main-6ae130b52f65d.jpg",
+      "Women/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-black-heather-front-6ae130b52f1c6.jpg",
+      "Women/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-black-heather-front-6ae130b52f956.jpg",
+      "Women/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-dark-grey-heather-front-6ae130b52f36e.jpg",
+      "Women/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-dark-grey-heather-front-6ae130b52f6ea.jpg",
+      "Women/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-dark-grey-heather-front-6ae130b52f9a7.jpg",
+      "Women/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-heather-emerald-front-6ae130b52f430.jpg",
+      "Women/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-heather-emerald-front-6ae130b52f75f.jpg"
+     ],
+     "byColor": {
+      "Black Heather": [
+       "Women/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-black-heather-main-6ae130b52f65d.jpg",
+       "Women/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-black-heather-front-6ae130b52f1c6.jpg",
+       "Women/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-black-heather-front-6ae130b52f956.jpg",
+       "Women/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-black-heather-back-6ae130b52fc11.jpg",
+       "Women/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-black-heather-left-6ae130b52fe7f.jpg",
+       "Women/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-black-heather-right-6ae130b53007d.jpg"
+      ],
+      "Dark Grey Heather": [
+       "Women/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-dark-grey-heather-front-6ae130b52f36e.jpg",
+       "Women/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-dark-grey-heather-front-6ae130b52f6ea.jpg",
+       "Women/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-dark-grey-heather-front-6ae130b52f9a7.jpg",
+       "Women/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-dark-grey-heather-back-6ae130b52fc5b.jpg",
+       "Women/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-dark-grey-heather-left-6ae130b52fec6.jpg",
+       "Women/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-dark-grey-heather-right-6ae130b5300cd.jpg"
+      ],
+      "Heather Emerald": [
+       "Women/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-heather-emerald-front-6ae130b52f430.jpg",
+       "Women/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-heather-emerald-front-6ae130b52f75f.jpg",
+       "Women/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-heather-emerald-front-6ae130b52fa2e.jpg",
+       "Women/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-heather-emerald-back-6ae130b52fcd8.jpg",
+       "Women/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-heather-emerald-left-6ae130b52ff38.jpg",
+       "Women/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-heather-emerald-right-6ae130b530141.jpg"
+      ],
+      "Heather Midnight Navy": [
+       "Women/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-heather-midnight-navy-front-6ae130b52f3d9.jpg",
+       "Women/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-heather-midnight-navy-front-6ae130b52f726.jpg",
+       "Women/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-heather-midnight-navy-front-6ae130b52f9f0.jpg",
+       "Women/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-heather-midnight-navy-back-6ae130b52fc93.jpg",
+       "Women/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-heather-midnight-navy-left-6ae130b52feff.jpg",
+       "Women/Embroidered Logo - Oak & Stone Dark Tee/unisex-staple-t-shirt-heather-midnight-navy-right-6ae130b530109.jpg"
+      ]
+     }
+    }
+   }
+  },
+  "unisex-t-shirt-os-logo-light-embroidered": {
+   "name": "Embroidered Logo - Oak & Stone Light Tee",
+   "depts": {
+    "men": {
+     "all": [
+      "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-white-main-6ae138a061442.jpg",
+      "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-ash-front-6ae138a0611a2.jpg",
+      "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-ash-front-6ae138a061922.jpg",
+      "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-ash-front-6ae138a061c6c.jpg",
+      "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-athletic-heather-front-6ae138a0612c3.jpg",
+      "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-athletic-heather-front-6ae138a06196d.jpg",
+      "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-athletic-heather-front-6ae138a061cb6.jpg",
+      "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-carolina-blue-front-6ae138a06147e.jpg"
+     ],
+     "byColor": {
+      "White": [
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-white-main-6ae138a061442.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-white-front-6ae138a061afe.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-white-front-6ae138a061e5e.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-white-back-6ae138a0621df.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-white-left-6ae138a06254a.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-white-right-6ae138a0628af.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-white-zoomed-in-6ae138a0617a0.jpg"
+      ],
+      "Ash": [
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-ash-front-6ae138a0611a2.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-ash-front-6ae138a061922.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-ash-front-6ae138a061c6c.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-ash-back-6ae138a061ff0.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-ash-left-6ae138a06237e.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-ash-right-6ae138a0626dc.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-ash-zoomed-in-6ae138a061623.jpg"
+      ],
+      "Athletic Heather": [
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-athletic-heather-front-6ae138a0612c3.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-athletic-heather-front-6ae138a06196d.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-athletic-heather-front-6ae138a061cb6.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-athletic-heather-back-6ae138a062046.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-athletic-heather-left-6ae138a0623c9.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-athletic-heather-right-6ae138a062729.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-athletic-heather-zoomed-in-6ae138a061660.jpg"
+      ],
+      "Heather Carolina Blue": [
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-carolina-blue-front-6ae138a06147e.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-carolina-blue-front-6ae138a061b30.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-carolina-blue-front-6ae138a061e94.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-carolina-blue-back-6ae138a062213.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-carolina-blue-left-6ae138a06258d.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-carolina-blue-right-6ae138a0628e1.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-carolina-blue-zoomed-in-6ae138a0617c8.jpg"
+      ],
+      "Heather Dust": [
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-dust-front-6ae138a06130b.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-dust-front-6ae138a0619a4.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-dust-front-6ae138a061cf9.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-dust-back-6ae138a06207e.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-dust-left-6ae138a062402.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-dust-right-6ae138a062761.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-dust-zoomed-in-6ae138a06168c.jpg"
+      ],
+      "Heather Orchid": [
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-orchid-front-6ae138a061341.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-orchid-front-6ae138a0619ea.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-orchid-front-6ae138a061d38.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-orchid-back-6ae138a0620b7.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-orchid-left-6ae138a062438.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-orchid-right-6ae138a0627a2.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-orchid-zoomed-in-6ae138a0616b7.jpg"
+      ],
+      "Heather Prism Dusty Blue": [
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-dusty-blue-front-6ae138a061377.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-dusty-blue-front-6ae138a061a20.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-dusty-blue-front-6ae138a061d71.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-dusty-blue-back-6ae138a0620ef.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-dusty-blue-left-6ae138a06246e.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-dusty-blue-right-6ae138a0627dc.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-dusty-blue-zoomed-in-6ae138a0616ec.jpg"
+      ],
+      "Heather Prism Ice Blue": [
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-ice-blue-front-6ae138a0613aa.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-ice-blue-front-6ae138a061a5b.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-ice-blue-front-6ae138a061db5.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-ice-blue-back-6ae138a062124.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-ice-blue-left-6ae138a0624a4.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-ice-blue-right-6ae138a062812.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-ice-blue-zoomed-in-6ae138a06171a.jpg"
+      ],
+      "Heather Prism Lilac": [
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-lilac-front-6ae138a0613de.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-lilac-front-6ae138a061a91.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-lilac-front-6ae138a061def.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-lilac-back-6ae138a06215f.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-lilac-left-6ae138a0624d9.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-lilac-right-6ae138a062847.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-lilac-zoomed-in-6ae138a061743.jpg"
+      ],
+      "Heather Prism Peach": [
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-peach-front-6ae138a061410.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-peach-front-6ae138a061aca.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-peach-front-6ae138a061e26.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-peach-back-6ae138a0621a9.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-peach-left-6ae138a06250e.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-peach-right-6ae138a06287b.jpg",
+       "Men/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-peach-zoomed-in-6ae138a061777.jpg"
+      ]
+     }
+    },
+    "women": {
+     "all": [
+      "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-athletic-heather-main-6ae13199e5de8.jpg",
+      "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-orchid-main-6ae13199e5e58.jpg",
+      "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-ash-front-6ae13199e3ef8.jpg",
+      "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-ash-front-6ae13199e44af.jpg",
+      "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-ash-front-6ae13199e5d8c.jpg",
+      "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-athletic-heather-front-6ae13199e3f46.jpg",
+      "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-athletic-heather-front-6ae13199e4521.jpg",
+      "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-carolina-blue-front-6ae13199e40fd.jpg"
+     ],
+     "byColor": {
+      "Athletic Heather": [
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-athletic-heather-main-6ae13199e5de8.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-athletic-heather-front-6ae13199e3f46.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-athletic-heather-front-6ae13199e4521.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-athletic-heather-back-6ae13199e4acd.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-athletic-heather-left-6ae13199e5144.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-athletic-heather-right-6ae13199e5753.jpg"
+      ],
+      "Heather Orchid": [
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-orchid-main-6ae13199e5e58.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-orchid-front-6ae13199e3fb4.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-orchid-front-6ae13199e45a5.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-orchid-back-6ae13199e4b40.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-orchid-left-6ae13199e51c1.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-orchid-right-6ae13199e57c6.jpg"
+      ],
+      "Ash": [
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-ash-front-6ae13199e3ef8.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-ash-front-6ae13199e44af.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-ash-front-6ae13199e5d8c.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-ash-back-6ae13199e4a79.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-ash-left-6ae13199e509f.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-ash-right-6ae13199e56fd.jpg"
+      ],
+      "Heather Carolina Blue": [
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-carolina-blue-front-6ae13199e40fd.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-carolina-blue-front-6ae13199e4719.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-carolina-blue-front-6ae13199e5fd4.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-carolina-blue-back-6ae13199e4cad.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-carolina-blue-left-6ae13199e532e.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-carolina-blue-right-6ae13199e5937.jpg"
+      ],
+      "Heather Dust": [
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-dust-front-6ae13199e3f7f.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-dust-front-6ae13199e4569.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-dust-front-6ae13199e5e22.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-dust-back-6ae13199e4b08.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-dust-left-6ae13199e5186.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-dust-right-6ae13199e578e.jpg"
+      ],
+      "Heather Prism Dusty Blue": [
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-dusty-blue-front-6ae13199e3fe9.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-dusty-blue-front-6ae13199e45df.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-dusty-blue-front-6ae13199e5e9a.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-dusty-blue-back-6ae13199e4b7e.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-dusty-blue-left-6ae13199e51fc.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-dusty-blue-right-6ae13199e57fd.jpg"
+      ],
+      "Heather Prism Ice Blue": [
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-ice-blue-front-6ae13199e4027.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-ice-blue-front-6ae13199e4616.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-ice-blue-front-6ae13199e5ed8.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-ice-blue-back-6ae13199e4bcc.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-ice-blue-left-6ae13199e5237.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-ice-blue-right-6ae13199e5834.jpg"
+      ],
+      "Heather Prism Lilac": [
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-lilac-front-6ae13199e405d.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-lilac-front-6ae13199e4659.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-lilac-front-6ae13199e5f2b.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-lilac-back-6ae13199e4c08.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-lilac-left-6ae13199e526f.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-lilac-right-6ae13199e586a.jpg"
+      ],
+      "Heather Prism Peach": [
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-peach-front-6ae13199e4090.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-peach-front-6ae13199e46a5.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-peach-front-6ae13199e5f64.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-peach-back-6ae13199e4c3f.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-peach-left-6ae13199e52a7.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-heather-prism-peach-right-6ae13199e58ae.jpg"
+      ],
+      "White": [
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-white-front-6ae13199e40c8.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-white-front-6ae13199e46e0.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-white-front-6ae13199e5f9a.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-white-back-6ae13199e4c76.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-white-left-6ae13199e52dd.jpg",
+       "Women/Embroidered Logo - Oak & Stone Light Tee/unisex-staple-t-shirt-white-right-6ae13199e58ef.jpg"
+      ]
+     }
+    }
+   }
+  },
+  "oversized-tie-dye-t-shirt-weird": {
+   "name": "Weird - Oak & Stone Tie Dye Tee",
+   "depts": {
+    "men": {
+     "all": [
+      "Men/Weird - Oak & Stone Tie Dye Tee/unisex-oversized-tie-dye-t-shirt-black-white-main-6ae132f1c1989.jpg",
+      "Men/Weird - Oak & Stone Tie Dye Tee/unisex-oversized-tie-dye-t-shirt-black-white-back-6ae132f1c1d87.jpg",
+      "Men/Weird - Oak & Stone Tie Dye Tee/unisex-oversized-tie-dye-t-shirt-black-white-product-details-6ae132f1c14ef.jpg",
+      "Men/Weird - Oak & Stone Tie Dye Tee/unisex-oversized-tie-dye-t-shirt-black-white-left-6ae132f1c21cc.jpg",
+      "Men/Weird - Oak & Stone Tie Dye Tee/unisex-oversized-tie-dye-t-shirt-black-white-right-6ae132f1c25b2.jpg"
+     ],
+     "byColor": null
+    },
+    "women": {
+     "all": [
+      "Women/Weird - Oak & Stone Tie Dye Tee/unisex-oversized-tie-dye-t-shirt-black-white-main-6ae132f1c1989.jpg",
+      "Women/Weird - Oak & Stone Tie Dye Tee/unisex-oversized-tie-dye-t-shirt-black-white-back-6ae132f1c1d87.jpg",
+      "Women/Weird - Oak & Stone Tie Dye Tee/unisex-oversized-tie-dye-t-shirt-black-white-product-details-6ae132f1c14ef.jpg",
+      "Women/Weird - Oak & Stone Tie Dye Tee/unisex-oversized-tie-dye-t-shirt-black-white-left-6ae132f1c21cc.jpg",
+      "Women/Weird - Oak & Stone Tie Dye Tee/unisex-oversized-tie-dye-t-shirt-black-white-right-6ae132f1c25b2.jpg"
+     ],
+     "byColor": null
+    }
+   }
+  },
+  "os-basic-shirt-light": {
+   "name": "Oak & Stone Basic Light Tee",
+   "depts": {
+    "men": {
+     "all": [
+      "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-athletic-heather-main-6ae133d42757f.jpg",
+      "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-ash-front-6ae133d42744a.jpg",
+      "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-ash-front-6ae133d431361.jpg",
+      "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-athletic-heather-front-6ae133d431cb6.jpg",
+      "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-baby-blue-front-6ae133d4275ca.jpg",
+      "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-baby-blue-front-6ae133d432540.jpg",
+      "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-dust-front-6ae133d42760a.jpg",
+      "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-dust-front-6ae133d432dff.jpg"
+     ],
+     "byColor": {
+      "Athletic Heather": [
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-athletic-heather-main-6ae133d42757f.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-athletic-heather-front-6ae133d431cb6.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-athletic-heather-back-6ae133d4279f8.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-athletic-heather-back-6ae133d4390d5.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-athletic-heather-product-details-6ae133d42a08e.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-athletic-heather-left-6ae133d427e10.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-athletic-heather-left-6ae133d43964e.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-athletic-heather-right-6ae133d42821d.jpg"
+      ],
+      "Ash": [
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-ash-front-6ae133d42744a.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-ash-front-6ae133d431361.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-ash-back-6ae133d4279ab.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-ash-back-6ae133d439070.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-ash-product-details-6ae133d429684.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-ash-left-6ae133d427dc3.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-ash-left-6ae133d4395f7.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-ash-right-6ae133d4281cb.jpg"
+      ],
+      "Baby Blue": [
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-baby-blue-front-6ae133d4275ca.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-baby-blue-front-6ae133d432540.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-baby-blue-back-6ae133d427a37.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-baby-blue-back-6ae133d43911a.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-baby-blue-product-details-6ae133d42a9e3.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-baby-blue-left-6ae133d427e4c.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-baby-blue-left-6ae133d439690.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-baby-blue-right-6ae133d42825f.jpg"
+      ],
+      "Heather Dust": [
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-dust-front-6ae133d42760a.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-dust-front-6ae133d432dff.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-dust-back-6ae133d427a71.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-dust-back-6ae133d439168.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-dust-product-details-6ae133d42b3e3.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-dust-left-6ae133d427e87.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-dust-left-6ae133d4396ce.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-dust-right-6ae133d42829e.jpg"
+      ],
+      "Heather Ice Blue": [
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-ice-blue-front-6ae133d4277f3.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-ice-blue-front-6ae133d4384a4.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-ice-blue-back-6ae133d427c5f.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-ice-blue-back-6ae133d439359.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-ice-blue-product-details-6ae133d430770.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-ice-blue-left-6ae133d42806a.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-ice-blue-left-6ae133d4398b8.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-ice-blue-right-6ae133d4284a6.jpg"
+      ],
+      "Heather Prism Ice Blue": [
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-ice-blue-front-6ae133d427648.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-ice-blue-front-6ae133d43384a.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-ice-blue-back-6ae133d427aad.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-ice-blue-back-6ae133d4391aa.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-ice-blue-product-details-6ae133d42be14.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-ice-blue-left-6ae133d427ec2.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-ice-blue-left-6ae133d43970d.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-ice-blue-right-6ae133d4282de.jpg"
+      ],
+      "Heather Prism Lilac": [
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-lilac-front-6ae133d427686.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-lilac-front-6ae133d4343c0.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-lilac-back-6ae133d427ae9.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-lilac-back-6ae133d4391e9.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-lilac-product-details-6ae133d42c7c2.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-lilac-left-6ae133d427efd.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-lilac-left-6ae133d439749.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-lilac-right-6ae133d42831e.jpg"
+      ],
+      "Heather Prism Mint": [
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-mint-front-6ae133d4276c4.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-mint-front-6ae133d434fd2.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-mint-back-6ae133d427b24.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-mint-back-6ae133d439227.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-mint-product-details-6ae133d42d356.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-mint-left-6ae133d427f38.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-mint-left-6ae133d439785.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-mint-right-6ae133d42835c.jpg"
+      ],
+      "Heather Prism Peach": [
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-peach-front-6ae133d427701.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-peach-front-6ae133d435a51.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-peach-back-6ae133d427b64.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-peach-back-6ae133d439263.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-peach-product-details-6ae133d42de28.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-peach-left-6ae133d427f72.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-peach-left-6ae133d4397c4.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-peach-right-6ae133d42839b.jpg"
+      ],
+      "Soft Pink": [
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-soft-pink-front-6ae133d4277b8.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-soft-pink-front-6ae133d437ae5.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-soft-pink-back-6ae133d427c23.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-soft-pink-back-6ae133d43931c.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-soft-pink-product-details-6ae133d42fd16.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-soft-pink-left-6ae133d42802f.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-soft-pink-left-6ae133d439878.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-soft-pink-right-6ae133d428469.jpg"
+      ],
+      "Vintage White": [
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-vintage-white-front-6ae133d427742.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-vintage-white-front-6ae133d4364f9.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-vintage-white-back-6ae133d427ba0.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-vintage-white-back-6ae133d4392a1.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-vintage-white-product-details-6ae133d42e909.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-vintage-white-left-6ae133d427fad.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-vintage-white-left-6ae133d439801.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-vintage-white-right-6ae133d4283eb.jpg"
+      ],
+      "White": [
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-white-front-6ae133d42777d.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-white-front-6ae133d437062.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-white-back-6ae133d427bda.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-white-back-6ae133d4392df.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-white-product-details-6ae133d42f387.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-white-left-6ae133d427ff3.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-white-left-6ae133d43983c.jpg",
+       "Men/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-white-right-6ae133d42842a.jpg"
+      ]
+     }
+    },
+    "women": {
+     "all": [
+      "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-ice-blue-main-6ae133d4294f9.jpg",
+      "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-ice-blue-main-6ae133d429350.jpg",
+      "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-ash-front-6ae133d428648.jpg",
+      "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-ash-front-6ae133d431361.jpg",
+      "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-athletic-heather-front-6ae133d428692.jpg",
+      "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-athletic-heather-front-6ae133d431cb6.jpg",
+      "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-baby-blue-front-6ae133d4286d0.jpg",
+      "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-baby-blue-front-6ae133d432540.jpg"
+     ],
+     "byColor": {
+      "Heather Ice Blue": [
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-ice-blue-main-6ae133d4294f9.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-ice-blue-front-6ae133d4288ea.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-ice-blue-front-6ae133d4384a4.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-ice-blue-back-6ae133d428ccc.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-ice-blue-back-6ae133d439359.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-ice-blue-product-details-6ae133d430770.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-ice-blue-left-6ae133d4290d8.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-ice-blue-left-6ae133d4398b8.jpg"
+      ],
+      "Heather Prism Ice Blue": [
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-ice-blue-main-6ae133d429350.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-ice-blue-front-6ae133d428746.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-ice-blue-front-6ae133d43384a.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-ice-blue-back-6ae133d428b1b.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-ice-blue-back-6ae133d4391aa.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-ice-blue-product-details-6ae133d42be14.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-ice-blue-left-6ae133d428f35.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-ice-blue-left-6ae133d43970d.jpg"
+      ],
+      "Ash": [
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-ash-front-6ae133d428648.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-ash-front-6ae133d431361.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-ash-back-6ae133d428a20.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-ash-back-6ae133d439070.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-ash-product-details-6ae133d429684.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-ash-left-6ae133d428e39.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-ash-left-6ae133d4395f7.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-ash-right-6ae133d429255.jpg"
+      ],
+      "Athletic Heather": [
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-athletic-heather-front-6ae133d428692.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-athletic-heather-front-6ae133d431cb6.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-athletic-heather-back-6ae133d428a6a.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-athletic-heather-back-6ae133d4390d5.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-athletic-heather-product-details-6ae133d42a08e.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-athletic-heather-left-6ae133d428e82.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-athletic-heather-left-6ae133d43964e.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-athletic-heather-right-6ae133d42821d.jpg"
+      ],
+      "Baby Blue": [
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-baby-blue-front-6ae133d4286d0.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-baby-blue-front-6ae133d432540.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-baby-blue-back-6ae133d428aa6.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-baby-blue-back-6ae133d43911a.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-baby-blue-product-details-6ae133d42a9e3.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-baby-blue-left-6ae133d428ebe.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-baby-blue-left-6ae133d439690.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-baby-blue-right-6ae133d4292da.jpg"
+      ],
+      "Heather Dust": [
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-dust-front-6ae133d42870a.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-dust-front-6ae133d432dff.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-dust-back-6ae133d428ae0.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-dust-back-6ae133d439168.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-dust-product-details-6ae133d42b3e3.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-dust-left-6ae133d428ef8.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-dust-left-6ae133d4396ce.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-dust-right-6ae133d429315.jpg"
+      ],
+      "Heather Prism Lilac": [
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-lilac-front-6ae133d428781.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-lilac-front-6ae133d4343c0.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-lilac-back-6ae133d428b57.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-lilac-back-6ae133d4391e9.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-lilac-product-details-6ae133d42c7c2.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-lilac-left-6ae133d428f7a.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-lilac-left-6ae133d439749.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-lilac-right-6ae133d42939b.jpg"
+      ],
+      "Heather Prism Mint": [
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-mint-front-6ae133d4287c8.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-mint-front-6ae133d434fd2.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-mint-back-6ae133d428b9c.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-mint-back-6ae133d439227.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-mint-product-details-6ae133d42d356.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-mint-left-6ae133d428fb5.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-mint-left-6ae133d439785.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-mint-right-6ae133d4293d7.jpg"
+      ],
+      "Heather Prism Peach": [
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-peach-front-6ae133d428803.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-peach-front-6ae133d435a51.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-peach-back-6ae133d428bda.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-peach-back-6ae133d439263.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-peach-product-details-6ae133d42de28.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-peach-left-6ae133d428ff0.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-peach-left-6ae133d4397c4.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-heather-prism-peach-right-6ae133d429416.jpg"
+      ],
+      "Soft Pink": [
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-soft-pink-front-6ae133d4288af.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-soft-pink-front-6ae133d437ae5.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-soft-pink-back-6ae133d428c89.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-soft-pink-back-6ae133d43931c.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-soft-pink-product-details-6ae133d42fd16.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-soft-pink-left-6ae133d42909e.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-soft-pink-left-6ae133d439878.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-soft-pink-right-6ae133d4294c1.jpg"
+      ],
+      "Vintage White": [
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-vintage-white-front-6ae133d42883c.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-vintage-white-front-6ae133d4364f9.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-vintage-white-back-6ae133d428c15.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-vintage-white-back-6ae133d4392a1.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-vintage-white-product-details-6ae133d42e909.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-vintage-white-left-6ae133d42902a.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-vintage-white-left-6ae133d439801.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-vintage-white-right-6ae133d42944f.jpg"
+      ],
+      "White": [
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-white-front-6ae133d428876.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-white-front-6ae133d437062.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-white-back-6ae133d428c4f.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-white-back-6ae133d4392df.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-white-product-details-6ae133d42f387.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-white-left-6ae133d429063.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-white-left-6ae133d43983c.jpg",
+       "Women/Oak & Stone Basic Light Tee/unisex-staple-t-shirt-white-right-6ae133d429488.jpg"
+      ]
+     }
+    }
+   }
+  },
+  "os-basic-shirt-black": {
+   "name": "Oak & Stone Basic Dark Tee",
+   "depts": {
+    "men": {
+     "all": [
+      "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-black-heather-main-6ae1358030e0f.jpg",
+      "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-black-front-6ae1358030cac.jpg",
+      "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-black-front-6ae1358036e0c.jpg",
+      "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-black-heather-front-6ae1358037932.jpg",
+      "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-dark-grey-front-6ae1358030f1d.jpg",
+      "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-dark-grey-front-6ae135803a6f3.jpg",
+      "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-heather-emerald-front-6ae1358030f60.jpg",
+      "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-heather-emerald-front-6ae135803b118.jpg"
+     ],
+     "byColor": {
+      "Black Heather": [
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-black-heather-main-6ae1358030e0f.jpg",
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-black-heather-front-6ae1358037932.jpg",
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-black-heather-back-6ae13580311b6.jpg",
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-black-heather-back-6ae135803bca9.jpg",
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-black-heather-product-details-6ae1358032b98.jpg",
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-black-heather-left-6ae135803bfa8.jpg",
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-black-heather-right-6ae135803c294.jpg"
+      ],
+      "Black": [
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-black-front-6ae1358030cac.jpg",
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-black-front-6ae1358036e0c.jpg",
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-black-back-6ae1358031159.jpg",
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-black-back-6ae135803bc48.jpg",
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-black-product-details-6ae1358032082.jpg",
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-black-left-6ae135803bf5e.jpg",
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-black-right-6ae135803c241.jpg"
+      ],
+      "Dark Grey": [
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-dark-grey-front-6ae1358030f1d.jpg",
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-dark-grey-front-6ae135803a6f3.jpg",
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-dark-grey-back-6ae13580312af.jpg",
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-dark-grey-back-6ae135803bdb8.jpg",
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-dark-grey-product-details-6ae135803588c.jpg",
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-dark-grey-left-6ae135803c0ae.jpg",
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-dark-grey-right-6ae135803c38c.jpg"
+      ],
+      "Heather Emerald": [
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-heather-emerald-front-6ae1358030f60.jpg",
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-heather-emerald-front-6ae135803b118.jpg",
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-heather-emerald-back-6ae13580312ea.jpg",
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-heather-emerald-back-6ae135803bdf7.jpg",
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-heather-emerald-product-details-6ae13580361ac.jpg",
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-heather-emerald-left-6ae135803c0f1.jpg",
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-heather-emerald-right-6ae135803c3c8.jpg"
+      ],
+      "Heather Midnight Navy": [
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-heather-midnight-navy-front-6ae1358030e5b.jpg",
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-heather-midnight-navy-front-6ae135803840b.jpg",
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-heather-midnight-navy-back-6ae13580311f7.jpg",
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-heather-midnight-navy-back-6ae135803bcf0.jpg",
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-heather-midnight-navy-product-details-6ae1358033758.jpg",
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-heather-midnight-navy-left-6ae135803bfe7.jpg",
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-heather-midnight-navy-right-6ae135803c2d4.jpg"
+      ],
+      "Navy": [
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-navy-front-6ae1358030ea0.jpg",
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-navy-front-6ae135803908d.jpg",
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-navy-back-6ae1358031236.jpg",
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-navy-back-6ae135803bd31.jpg",
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-navy-product-details-6ae13580343af.jpg",
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-navy-left-6ae135803c026.jpg",
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-navy-right-6ae135803c313.jpg"
+      ],
+      "Oxblood Black": [
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-oxblood-black-front-6ae1358030edf.jpg",
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-oxblood-black-front-6ae1358039b97.jpg",
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-oxblood-black-back-6ae1358031273.jpg",
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-oxblood-black-back-6ae135803bd7b.jpg",
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-oxblood-black-product-details-6ae1358034ed7.jpg",
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-oxblood-black-left-6ae135803c070.jpg",
+       "Men/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-oxblood-black-right-6ae135803c350.jpg"
+      ]
+     }
+    },
+    "women": {
+     "all": [
+      "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-black-heather-main-6ae13580314e9.jpg",
+      "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-black-front-6ae135803149a.jpg",
+      "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-black-front-6ae1358036e0c.jpg",
+      "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-black-heather-front-6ae1358037932.jpg",
+      "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-dark-grey-front-6ae13580315f5.jpg",
+      "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-dark-grey-front-6ae135803a6f3.jpg",
+      "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-heather-emerald-front-6ae1358031631.jpg",
+      "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-heather-emerald-front-6ae135803b118.jpg"
+     ],
+     "byColor": {
+      "Black Heather": [
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-black-heather-main-6ae13580314e9.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-black-heather-front-6ae1358037932.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-black-heather-back-6ae135803182a.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-black-heather-back-6ae135803bca9.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-black-heather-product-details-6ae1358032b98.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-black-heather-left-6ae1358031b16.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-black-heather-left-6ae135803bfa8.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-black-heather-right-6ae1358031e08.jpg"
+      ],
+      "Black": [
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-black-front-6ae135803149a.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-black-front-6ae1358036e0c.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-black-back-6ae13580317df.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-black-back-6ae135803bc48.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-black-product-details-6ae1358032082.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-black-left-6ae1358031acf.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-black-left-6ae135803bf5e.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-black-right-6ae1358031db9.jpg"
+      ],
+      "Dark Grey": [
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-dark-grey-front-6ae13580315f5.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-dark-grey-front-6ae135803a6f3.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-dark-grey-back-6ae1358031919.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-dark-grey-back-6ae135803bdb8.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-dark-grey-product-details-6ae135803588c.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-dark-grey-left-6ae1358031c17.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-dark-grey-left-6ae135803c0ae.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-dark-grey-right-6ae1358031efd.jpg"
+      ],
+      "Heather Emerald": [
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-heather-emerald-front-6ae1358031631.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-heather-emerald-front-6ae135803b118.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-heather-emerald-back-6ae135803195f.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-heather-emerald-back-6ae135803bdf7.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-heather-emerald-product-details-6ae13580361ac.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-heather-emerald-left-6ae1358031c52.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-heather-emerald-left-6ae135803c0f1.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-heather-emerald-right-6ae1358031f38.jpg"
+      ],
+      "Heather Midnight Navy": [
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-heather-midnight-navy-front-6ae1358031527.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-heather-midnight-navy-front-6ae135803840b.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-heather-midnight-navy-back-6ae1358031867.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-heather-midnight-navy-back-6ae135803bcf0.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-heather-midnight-navy-product-details-6ae1358033758.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-heather-midnight-navy-left-6ae1358031b54.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-heather-midnight-navy-left-6ae135803bfe7.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-heather-midnight-navy-right-6ae1358031e47.jpg"
+      ],
+      "Navy": [
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-navy-front-6ae1358031571.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-navy-front-6ae135803908d.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-navy-back-6ae13580318a4.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-navy-back-6ae135803bd31.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-navy-product-details-6ae13580343af.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-navy-left-6ae1358031b9c.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-navy-left-6ae135803c026.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-navy-right-6ae1358031e87.jpg"
+      ],
+      "Oxblood Black": [
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-oxblood-black-front-6ae13580315b0.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-oxblood-black-front-6ae1358039b97.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-oxblood-black-back-6ae13580318df.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-oxblood-black-back-6ae135803bd7b.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-oxblood-black-product-details-6ae1358034ed7.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-oxblood-black-left-6ae1358031bdc.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-oxblood-black-left-6ae135803c070.jpg",
+       "Women/Oak & Stone Basic Dark Tee/unisex-staple-t-shirt-oxblood-black-right-6ae1358031ec2.jpg"
+      ]
+     }
+    }
+   }
+  },
+  "os-basic-sweatpants-dark": {
+   "name": "Oak & Stone Basic Dark Sweatpants",
+   "depts": {
+    "men": {
+     "all": [
+      "Men/Oak & Stone Basic Dark Sweatpants/unisex-urban-sweatpants-black-front-and-main-6ae1394117cd1.jpg",
+      "Men/Oak & Stone Basic Dark Sweatpants/unisex-urban-sweatpants-black-front-6ae1394116900.jpg",
+      "Men/Oak & Stone Basic Dark Sweatpants/unisex-urban-sweatpants-black-front-6ae1394117683.jpg",
+      "Men/Oak & Stone Basic Dark Sweatpants/unisex-urban-sweatpants-black-back-6ae1394116c7d.jpg",
+      "Men/Oak & Stone Basic Dark Sweatpants/unisex-urban-sweatpants-black-back-6ae13941179a4.jpg"
+     ],
+     "byColor": null
+    },
+    "women": {
+     "all": [
+      "Women/Oak & Stone Basic Dark Sweatpants/unisex-urban-sweatpants-black-front-and-main-6ae1394117cd1.jpg",
+      "Women/Oak & Stone Basic Dark Sweatpants/unisex-urban-sweatpants-black-front-6ae1394116900.jpg",
+      "Women/Oak & Stone Basic Dark Sweatpants/unisex-urban-sweatpants-black-front-6ae1394116fce.jpg",
+      "Women/Oak & Stone Basic Dark Sweatpants/unisex-urban-sweatpants-black-back-6ae1394116c7d.jpg",
+      "Women/Oak & Stone Basic Dark Sweatpants/unisex-urban-sweatpants-black-back-6ae139411734b.jpg"
+     ],
+     "byColor": null
+    }
+   }
+  },
+  "os-basic-sweatpants-light": {
+   "name": "Oak & Stone Basic Light Sweatpants",
+   "depts": {
+    "men": {
+     "all": [
+      "Men/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pistachio-front-and-main-6ae2725612f0c.jpg",
+      "Men/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-burro-front-6ae272561234a.jpg",
+      "Men/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-burro-front-6ae2725612690.jpg",
+      "Men/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-burro-front-6ae27256128f0.jpg",
+      "Men/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-burro-front-6ae2725612aff.jpg",
+      "Men/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-burro-front-and-back-6ae27256124f1.jpg",
+      "Men/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-burro-front-and-back-6ae2725612977.jpg",
+      "Men/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pebble-blue-front-6ae2725611a84.jpg"
+     ],
+     "byColor": {
+      "Pistachio": [
+       "Men/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pistachio-front-and-main-6ae2725612f0c.jpg",
+       "Men/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pistachio-front-6ae2725612ca0.jpg",
+       "Men/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pistachio-front-6ae27256131a5.jpg",
+       "Men/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pistachio-front-6ae27256136dd.jpg",
+       "Men/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pistachio-front-6ae2725613a70.jpg",
+       "Men/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pistachio-front-and-back-6ae272561381e.jpg",
+       "Men/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pistachio-back-6ae2725612dcc.jpg",
+       "Men/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pistachio-back-6ae2725613058.jpg"
+      ],
+      "Burro": [
+       "Men/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-burro-front-6ae272561234a.jpg",
+       "Men/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-burro-front-6ae2725612690.jpg",
+       "Men/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-burro-front-6ae27256128f0.jpg",
+       "Men/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-burro-front-6ae2725612aff.jpg",
+       "Men/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-burro-front-and-back-6ae27256124f1.jpg",
+       "Men/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-burro-front-and-back-6ae2725612977.jpg",
+       "Men/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-burro-back-6ae272561240d.jpg",
+       "Men/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-burro-back-6ae27256125d8.jpg"
+      ],
+      "Pebble Blue": [
+       "Men/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pebble-blue-front-6ae2725611a84.jpg",
+       "Men/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pebble-blue-front-6ae2725611f3c.jpg",
+       "Men/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pebble-blue-front-6ae2725612120.jpg",
+       "Men/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pebble-blue-front-6ae2725612258.jpg",
+       "Men/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pebble-blue-front-and-back-6ae2725611e3b.jpg",
+       "Men/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pebble-blue-front-and-back-6ae272561217b.jpg",
+       "Men/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pebble-blue-back-6ae2725611dba.jpg",
+       "Men/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pebble-blue-back-6ae2725611ec5.jpg"
+      ],
+      "White": [
+       "Men/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-white-front-6ae2725613df3.jpg",
+       "Men/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-white-front-6ae272561442c.jpg",
+       "Men/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-white-front-6ae2725614a33.jpg",
+       "Men/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-white-front-6ae2725614f5d.jpg",
+       "Men/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-white-front-and-back-6ae2725614135.jpg",
+       "Men/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-white-front-and-back-6ae2725614be0.jpg",
+       "Men/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-white-back-6ae2725613f94.jpg",
+       "Men/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-white-back-6ae27256142a9.jpg"
+      ]
+     }
+    },
+    "women": {
+     "all": [
+      "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pistachio-front-and-main-6ae2725612f0c.jpg",
+      "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-burro-front-6ae272561234a.jpg",
+      "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-burro-front-6ae272561279e.jpg",
+      "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-burro-front-6ae27256128f0.jpg",
+      "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-burro-front-6ae2725612c13.jpg",
+      "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-burro-front-and-back-6ae27256124f1.jpg",
+      "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-burro-front-and-back-6ae2725612977.jpg",
+      "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pebble-blue-front-6ae2725611a84.jpg"
+     ],
+     "byColor": {
+      "Pistachio": [
+       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pistachio-front-and-main-6ae2725612f0c.jpg",
+       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pistachio-front-6ae2725612ca0.jpg",
+       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pistachio-front-6ae2725613456.jpg",
+       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pistachio-front-6ae27256136dd.jpg",
+       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pistachio-front-6ae2725613cea.jpg",
+       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pistachio-front-and-back-6ae272561381e.jpg",
+       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pistachio-back-6ae2725612dcc.jpg",
+       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pistachio-back-6ae27256132f7.jpg"
+      ],
+      "Burro": [
+       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-burro-front-6ae272561234a.jpg",
+       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-burro-front-6ae272561279e.jpg",
+       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-burro-front-6ae27256128f0.jpg",
+       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-burro-front-6ae2725612c13.jpg",
+       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-burro-front-and-back-6ae27256124f1.jpg",
+       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-burro-front-and-back-6ae2725612977.jpg",
+       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-burro-back-6ae272561240d.jpg",
+       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-burro-back-6ae2725612717.jpg"
+      ],
+      "Pebble Blue": [
+       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pebble-blue-front-6ae2725611a84.jpg",
+       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pebble-blue-front-6ae272561202d.jpg",
+       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pebble-blue-front-6ae2725612120.jpg",
+       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pebble-blue-front-6ae27256122ff.jpg",
+       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pebble-blue-front-and-back-6ae2725611e3b.jpg",
+       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pebble-blue-front-and-back-6ae272561217b.jpg",
+       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pebble-blue-back-6ae2725611dba.jpg",
+       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pebble-blue-back-6ae2725611fb6.jpg"
+      ],
+      "White": [
+       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-white-front-6ae2725613df3.jpg",
+       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-white-front-6ae272561472e.jpg",
+       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-white-front-6ae2725614a33.jpg",
+       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-white-front-6ae27256152ad.jpg",
+       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-white-front-and-back-6ae2725614135.jpg",
+       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-white-front-and-back-6ae2725614be0.jpg",
+       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-white-back-6ae2725613f94.jpg",
+       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-white-back-6ae27256145b1.jpg"
+      ]
+     }
+    }
+   }
+  },
+  "women-s-cropped-tee-front-back": {
+   "name": "Front/Back - Oak & Stone Graphic Print Crop Tee",
+   "depts": {
+    "women": {
+     "all": [
+      "Women/FrontBack - Oak & Stone Graphic Print Crop Tee/womens-garment-dye-cropped-tee-light-washed-denim-main-6ae273838f767.jpg",
+      "Women/FrontBack - Oak & Stone Graphic Print Crop Tee/womens-garment-dye-cropped-tee-light-washed-denim-front-6ae273838f188.jpg",
+      "Women/FrontBack - Oak & Stone Graphic Print Crop Tee/womens-garment-dye-cropped-tee-vintage-white-front-6ae273838f39b.jpg",
+      "Women/FrontBack - Oak & Stone Graphic Print Crop Tee/womens-garment-dye-cropped-tee-vintage-white-front-6ae273838f7ae.jpg",
+      "Women/FrontBack - Oak & Stone Graphic Print Crop Tee/womens-garment-dye-cropped-tee-light-washed-denim-back-6ae273838f59e.jpg",
+      "Women/FrontBack - Oak & Stone Graphic Print Crop Tee/womens-garment-dye-cropped-tee-light-washed-denim-back-6ae273838f8ef.jpg",
+      "Women/FrontBack - Oak & Stone Graphic Print Crop Tee/womens-garment-dye-cropped-tee-vintage-white-back-6ae273838f5f7.jpg",
+      "Women/FrontBack - Oak & Stone Graphic Print Crop Tee/womens-garment-dye-cropped-tee-vintage-white-back-6ae273838f919.jpg"
+     ],
+     "byColor": {
+      "Light Washed Denim": [
+       "Women/FrontBack - Oak & Stone Graphic Print Crop Tee/womens-garment-dye-cropped-tee-light-washed-denim-main-6ae273838f767.jpg",
+       "Women/FrontBack - Oak & Stone Graphic Print Crop Tee/womens-garment-dye-cropped-tee-light-washed-denim-front-6ae273838f188.jpg",
+       "Women/FrontBack - Oak & Stone Graphic Print Crop Tee/womens-garment-dye-cropped-tee-light-washed-denim-back-6ae273838f59e.jpg",
+       "Women/FrontBack - Oak & Stone Graphic Print Crop Tee/womens-garment-dye-cropped-tee-light-washed-denim-back-6ae273838f8ef.jpg"
+      ],
+      "Vintage White": [
+       "Women/FrontBack - Oak & Stone Graphic Print Crop Tee/womens-garment-dye-cropped-tee-vintage-white-front-6ae273838f39b.jpg",
+       "Women/FrontBack - Oak & Stone Graphic Print Crop Tee/womens-garment-dye-cropped-tee-vintage-white-front-6ae273838f7ae.jpg",
+       "Women/FrontBack - Oak & Stone Graphic Print Crop Tee/womens-garment-dye-cropped-tee-vintage-white-back-6ae273838f5f7.jpg",
+       "Women/FrontBack - Oak & Stone Graphic Print Crop Tee/womens-garment-dye-cropped-tee-vintage-white-back-6ae273838f919.jpg"
+      ]
+     }
+    }
+   }
+  },
+  "women-s-cropped-tee-mondays": {
+   "name": "Mondays Be Like - Oak & Stone Graphic Print Crop Tee",
+   "depts": {
+    "women": {
+     "all": [
+      "Women/Mondays Be Like - Oak & Stone Graphic Print Crop Tee/womens-garment-dye-cropped-tee-vintage-white-main-6ae273c342b33.jpg",
+      "Women/Mondays Be Like - Oak & Stone Graphic Print Crop Tee/womens-garment-dye-cropped-tee-light-washed-denim-front-6ae273c3427cc.jpg",
+      "Women/Mondays Be Like - Oak & Stone Graphic Print Crop Tee/womens-garment-dye-cropped-tee-light-washed-denim-front-6ae273c342b0b.jpg",
+      "Women/Mondays Be Like - Oak & Stone Graphic Print Crop Tee/womens-garment-dye-cropped-tee-vintage-white-front-6ae273c342825.jpg",
+      "Women/Mondays Be Like - Oak & Stone Graphic Print Crop Tee/womens-garment-dye-cropped-tee-light-washed-denim-back-6ae273c34298e.jpg",
+      "Women/Mondays Be Like - Oak & Stone Graphic Print Crop Tee/womens-garment-dye-cropped-tee-light-washed-denim-back-6ae273c342c51.jpg",
+      "Women/Mondays Be Like - Oak & Stone Graphic Print Crop Tee/womens-garment-dye-cropped-tee-vintage-white-back-6ae273c3429b9.jpg",
+      "Women/Mondays Be Like - Oak & Stone Graphic Print Crop Tee/womens-garment-dye-cropped-tee-vintage-white-back-6ae273c342c77.jpg"
+     ],
+     "byColor": {
+      "Vintage White": [
+       "Women/Mondays Be Like - Oak & Stone Graphic Print Crop Tee/womens-garment-dye-cropped-tee-vintage-white-main-6ae273c342b33.jpg",
+       "Women/Mondays Be Like - Oak & Stone Graphic Print Crop Tee/womens-garment-dye-cropped-tee-vintage-white-front-6ae273c342825.jpg",
+       "Women/Mondays Be Like - Oak & Stone Graphic Print Crop Tee/womens-garment-dye-cropped-tee-vintage-white-back-6ae273c3429b9.jpg",
+       "Women/Mondays Be Like - Oak & Stone Graphic Print Crop Tee/womens-garment-dye-cropped-tee-vintage-white-back-6ae273c342c77.jpg"
+      ],
+      "Light Washed Denim": [
+       "Women/Mondays Be Like - Oak & Stone Graphic Print Crop Tee/womens-garment-dye-cropped-tee-light-washed-denim-front-6ae273c3427cc.jpg",
+       "Women/Mondays Be Like - Oak & Stone Graphic Print Crop Tee/womens-garment-dye-cropped-tee-light-washed-denim-front-6ae273c342b0b.jpg",
+       "Women/Mondays Be Like - Oak & Stone Graphic Print Crop Tee/womens-garment-dye-cropped-tee-light-washed-denim-back-6ae273c34298e.jpg",
+       "Women/Mondays Be Like - Oak & Stone Graphic Print Crop Tee/womens-garment-dye-cropped-tee-light-washed-denim-back-6ae273c342c51.jpg"
+      ]
+     }
+    }
+   }
+  },
+  "unisex-joggers-my-life": {
+   "name": "My Life - Oak & Stone Graphic Print Fleece Sweatpants",
+   "depts": {
+    "men": {
+     "all": [
+      "Men/My Life - Oak & Stone Graphic Print Fleece Sweatpants/unisex-joggers-athletic-heather-left-main-6ae27a72c0279.jpg",
+      "Men/My Life - Oak & Stone Graphic Print Fleece Sweatpants/unisex-joggers-athletic-heather-front-6ae27a72bf696.jpg",
+      "Men/My Life - Oak & Stone Graphic Print Fleece Sweatpants/unisex-joggers-athletic-heather-front-6ae27a72bfdf1.jpg",
+      "Men/My Life - Oak & Stone Graphic Print Fleece Sweatpants/unisex-joggers-athletic-heather-left-front-6ae27a72bfbd5.jpg",
+      "Men/My Life - Oak & Stone Graphic Print Fleece Sweatpants/unisex-joggers-athletic-heather-right-front-6ae27a72bfa3a.jpg",
+      "Men/My Life - Oak & Stone Graphic Print Fleece Sweatpants/unisex-joggers-athletic-heather-right-front-6ae27a72c00fb.jpg",
+      "Men/My Life - Oak & Stone Graphic Print Fleece Sweatpants/unisex-joggers-athletic-heather-back-6ae27a72bf866.jpg",
+      "Men/My Life - Oak & Stone Graphic Print Fleece Sweatpants/unisex-joggers-athletic-heather-back-6ae27a72bff72.jpg"
+     ],
+     "byColor": null
+    },
+    "women": {
+     "all": [
+      "Women/My Life - Oak & Stone Graphic Print Fleece Sweatpants/unisex-joggers-athletic-heather-left-main-6ae27a72c0a32.jpg",
+      "Women/My Life - Oak & Stone Graphic Print Fleece Sweatpants/unisex-joggers-athletic-heather-front-6ae27a72bf696.jpg",
+      "Women/My Life - Oak & Stone Graphic Print Fleece Sweatpants/unisex-joggers-athletic-heather-front-6ae27a72c041b.jpg",
+      "Women/My Life - Oak & Stone Graphic Print Fleece Sweatpants/unisex-joggers-athletic-heather-left-front-6ae27a72bfbd5.jpg",
+      "Women/My Life - Oak & Stone Graphic Print Fleece Sweatpants/unisex-joggers-athletic-heather-right-front-6ae27a72bfa3a.jpg",
+      "Women/My Life - Oak & Stone Graphic Print Fleece Sweatpants/unisex-joggers-athletic-heather-right-front-6ae27a72c0831.jpg",
+      "Women/My Life - Oak & Stone Graphic Print Fleece Sweatpants/unisex-joggers-athletic-heather-back-6ae27a72bf866.jpg",
+      "Women/My Life - Oak & Stone Graphic Print Fleece Sweatpants/unisex-joggers-athletic-heather-back-6ae27a72c0623.jpg"
+     ],
+     "byColor": null
+    }
+   }
+  },
+  "crop-hoodie-mondays": {
+   "name": "Mondays Be Like - Oak & Stone Cropped, Fleece Hoodie",
+   "depts": {
+    "women": {
+     "all": [
+      "Women/Mondays Be Like - Oak & Stone Cropped, Fleece Hoodie/womens-cropped-hoodie-military-green-main-6ae27e1602182.jpg",
+      "Women/Mondays Be Like - Oak & Stone Cropped, Fleece Hoodie/womens-cropped-hoodie-military-green-front-6ae27e1602c7b.jpg",
+      "Women/Mondays Be Like - Oak & Stone Cropped, Fleece Hoodie/womens-cropped-hoodie-military-green-left-front-6ae27e160268e.jpg",
+      "Women/Mondays Be Like - Oak & Stone Cropped, Fleece Hoodie/womens-cropped-hoodie-military-green-right-front-6ae27e1602824.jpg",
+      "Women/Mondays Be Like - Oak & Stone Cropped, Fleece Hoodie/womens-cropped-hoodie-storm-front-6ae27e1602315.jpg",
+      "Women/Mondays Be Like - Oak & Stone Cropped, Fleece Hoodie/womens-cropped-hoodie-storm-front-6ae27e1602cba.jpg",
+      "Women/Mondays Be Like - Oak & Stone Cropped, Fleece Hoodie/womens-cropped-hoodie-storm-left-front-6ae27e16026c9.jpg",
+      "Women/Mondays Be Like - Oak & Stone Cropped, Fleece Hoodie/womens-cropped-hoodie-storm-right-front-6ae27e1602860.jpg"
+     ],
+     "byColor": {
+      "Military Green": [
+       "Women/Mondays Be Like - Oak & Stone Cropped, Fleece Hoodie/womens-cropped-hoodie-military-green-main-6ae27e1602182.jpg",
+       "Women/Mondays Be Like - Oak & Stone Cropped, Fleece Hoodie/womens-cropped-hoodie-military-green-front-6ae27e1602c7b.jpg",
+       "Women/Mondays Be Like - Oak & Stone Cropped, Fleece Hoodie/womens-cropped-hoodie-military-green-left-front-6ae27e160268e.jpg",
+       "Women/Mondays Be Like - Oak & Stone Cropped, Fleece Hoodie/womens-cropped-hoodie-military-green-right-front-6ae27e1602824.jpg",
+       "Women/Mondays Be Like - Oak & Stone Cropped, Fleece Hoodie/womens-cropped-hoodie-military-green-back-6ae27e16024e3.jpg",
+       "Women/Mondays Be Like - Oak & Stone Cropped, Fleece Hoodie/womens-cropped-hoodie-military-green-back-6ae27e1602de4.jpg",
+       "Women/Mondays Be Like - Oak & Stone Cropped, Fleece Hoodie/womens-cropped-hoodie-military-green-product-details-2-6ae27e1602b01.jpg",
+       "Women/Mondays Be Like - Oak & Stone Cropped, Fleece Hoodie/womens-cropped-hoodie-military-green-product-details-6ae27e1602998.jpg"
+      ],
+      "Storm": [
+       "Women/Mondays Be Like - Oak & Stone Cropped, Fleece Hoodie/womens-cropped-hoodie-storm-front-6ae27e1602315.jpg",
+       "Women/Mondays Be Like - Oak & Stone Cropped, Fleece Hoodie/womens-cropped-hoodie-storm-front-6ae27e1602cba.jpg",
+       "Women/Mondays Be Like - Oak & Stone Cropped, Fleece Hoodie/womens-cropped-hoodie-storm-left-front-6ae27e16026c9.jpg",
+       "Women/Mondays Be Like - Oak & Stone Cropped, Fleece Hoodie/womens-cropped-hoodie-storm-right-front-6ae27e1602860.jpg",
+       "Women/Mondays Be Like - Oak & Stone Cropped, Fleece Hoodie/womens-cropped-hoodie-storm-back-6ae27e160252c.jpg",
+       "Women/Mondays Be Like - Oak & Stone Cropped, Fleece Hoodie/womens-cropped-hoodie-storm-back-6ae27e1602e21.jpg",
+       "Women/Mondays Be Like - Oak & Stone Cropped, Fleece Hoodie/womens-cropped-hoodie-storm-product-details-2-6ae27e1602b4b.jpg",
+       "Women/Mondays Be Like - Oak & Stone Cropped, Fleece Hoodie/womens-cropped-hoodie-storm-product-details-6ae27e16029d6.jpg"
+      ]
+     }
+    }
+   }
+  },
+  "dad-hat-tomato-tomato": {
+   "name": "Tomato Tomato - Oak & Stone Unstructured Dad Hat",
+   "depts": {
+    "men": {
+     "all": [
+      "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-main-6ae27f1699e5e.jpg",
+      "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-front-6ae27f169880b.jpg",
+      "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-left-front-6ae27f1699ad1.jpg",
+      "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-right-front-6ae27f1699723.jpg",
+      "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-front-6ae27f1698937.jpg",
+      "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-front-6ae27f1699ebf.jpg",
+      "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-left-front-6ae27f1699b4b.jpg",
+      "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-right-front-6ae27f169979b.jpg"
+     ],
+     "byColor": {
+      "Black": [
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-main-6ae27f1699e5e.jpg",
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-front-6ae27f169880b.jpg",
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-left-front-6ae27f1699ad1.jpg",
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-right-front-6ae27f1699723.jpg",
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-back-6ae27f1698ca0.jpg",
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-back-6ae27f169a11b.jpg",
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-left-side-6ae27f1699348.jpg",
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-right-side-6ae27f1698fd0.jpg"
+      ],
+      "Dark Grey": [
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-front-6ae27f1698937.jpg",
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-front-6ae27f1699ebf.jpg",
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-left-front-6ae27f1699b4b.jpg",
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-right-front-6ae27f169979b.jpg",
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-back-6ae27f1698d0a.jpg",
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-back-6ae27f169a16f.jpg",
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-left-side-6ae27f16993c0.jpg",
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-right-side-6ae27f169905a.jpg"
+      ],
+      "Khaki": [
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-front-6ae27f169899a.jpg",
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-front-6ae27f1699efb.jpg",
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-left-front-6ae27f1699bb5.jpg",
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-right-front-6ae27f16997ee.jpg",
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-back-6ae27f1698d4d.jpg",
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-back-6ae27f169a1a8.jpg",
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-left-side-6ae27f1699424.jpg",
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-right-side-6ae27f16990a9.jpg"
+      ],
+      "Navy": [
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-navy-front-6ae27f16989eb.jpg",
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-navy-front-6ae27f1699f32.jpg",
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-navy-left-front-6ae27f1699c1e.jpg",
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-navy-right-front-6ae27f169985e.jpg",
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-navy-back-6ae27f1698d91.jpg",
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-navy-back-6ae27f169a1ef.jpg",
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-navy-left-side-6ae27f1699474.jpg",
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-navy-right-side-6ae27f16990f1.jpg"
+      ],
+      "Spruce": [
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-spruce-front-6ae27f1698a39.jpg",
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-spruce-front-6ae27f1699f62.jpg",
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-spruce-left-front-6ae27f1699c76.jpg",
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-spruce-right-front-6ae27f16998b9.jpg",
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-spruce-back-6ae27f1698dcd.jpg",
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-spruce-back-6ae27f169a227.jpg",
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-spruce-left-side-6ae27f16994c2.jpg",
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-spruce-right-side-6ae27f169913c.jpg"
+      ],
+      "Stone": [
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-stone-front-6ae27f1698a85.jpg",
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-stone-front-6ae27f1699f9c.jpg",
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-stone-left-front-6ae27f1699cc5.jpg",
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-stone-right-front-6ae27f1699906.jpg",
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-stone-back-6ae27f1698e0a.jpg",
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-stone-back-6ae27f169a25b.jpg",
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-stone-left-side-6ae27f1699510.jpg",
+       "Men/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-stone-right-side-6ae27f1699186.jpg"
+      ]
+     }
+    },
+    "women": {
+     "all": [
+      "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-main-6ae27f1699e5e.jpg",
+      "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-front-6ae27f169880b.jpg",
+      "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-left-front-6ae27f1699ad1.jpg",
+      "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-right-front-6ae27f1699723.jpg",
+      "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-front-6ae27f1698937.jpg",
+      "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-front-6ae27f1699ebf.jpg",
+      "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-left-front-6ae27f1699b4b.jpg",
+      "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-right-front-6ae27f169979b.jpg"
+     ],
+     "byColor": {
+      "Black": [
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-main-6ae27f1699e5e.jpg",
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-front-6ae27f169880b.jpg",
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-left-front-6ae27f1699ad1.jpg",
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-right-front-6ae27f1699723.jpg",
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-back-6ae27f1698ca0.jpg",
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-back-6ae27f169a11b.jpg",
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-left-side-6ae27f1699348.jpg",
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-right-side-6ae27f1698fd0.jpg"
+      ],
+      "Dark Grey": [
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-front-6ae27f1698937.jpg",
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-front-6ae27f1699ebf.jpg",
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-left-front-6ae27f1699b4b.jpg",
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-right-front-6ae27f169979b.jpg",
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-back-6ae27f1698d0a.jpg",
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-back-6ae27f169a16f.jpg",
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-left-side-6ae27f16993c0.jpg",
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-right-side-6ae27f169905a.jpg"
+      ],
+      "Khaki": [
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-front-6ae27f169899a.jpg",
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-front-6ae27f1699efb.jpg",
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-left-front-6ae27f1699bb5.jpg",
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-right-front-6ae27f16997ee.jpg",
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-back-6ae27f1698d4d.jpg",
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-back-6ae27f169a1a8.jpg",
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-left-side-6ae27f1699424.jpg",
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-right-side-6ae27f16990a9.jpg"
+      ],
+      "Navy": [
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-navy-front-6ae27f16989eb.jpg",
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-navy-front-6ae27f1699f32.jpg",
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-navy-left-front-6ae27f1699c1e.jpg",
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-navy-right-front-6ae27f169985e.jpg",
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-navy-back-6ae27f1698d91.jpg",
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-navy-back-6ae27f169a1ef.jpg",
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-navy-left-side-6ae27f1699474.jpg",
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-navy-right-side-6ae27f16990f1.jpg"
+      ],
+      "Spruce": [
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-spruce-front-6ae27f1698a39.jpg",
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-spruce-front-6ae27f1699f62.jpg",
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-spruce-left-front-6ae27f1699c76.jpg",
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-spruce-right-front-6ae27f16998b9.jpg",
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-spruce-back-6ae27f1698dcd.jpg",
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-spruce-back-6ae27f169a227.jpg",
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-spruce-left-side-6ae27f16994c2.jpg",
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-spruce-right-side-6ae27f169913c.jpg"
+      ],
+      "Stone": [
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-stone-front-6ae27f1698a85.jpg",
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-stone-front-6ae27f1699f9c.jpg",
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-stone-left-front-6ae27f1699cc5.jpg",
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-stone-right-front-6ae27f1699906.jpg",
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-stone-back-6ae27f1698e0a.jpg",
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-stone-back-6ae27f169a25b.jpg",
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-stone-left-side-6ae27f1699510.jpg",
+       "Women/Tomato Tomato - Oak & Stone Unstructured Dad Hat/classic-dad-hat-stone-right-side-6ae27f1699186.jpg"
+      ]
+     }
+    }
+   }
+  },
+  "dad-hat-front-back": {
+   "name": "Front/Back - Oak & Stone Unstructured Dad Hat",
+   "depts": {
+    "women": {
+     "all": [
+      "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-main-6ae27faebbd6f.jpg",
+      "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-front-6ae27faeb72ac.jpg",
+      "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-front-6ae27faeb926d.jpg",
+      "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-front-6ae27faebb3b7.jpg",
+      "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-left-front-6ae27faeb8c52.jpg",
+      "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-left-front-6ae27faebaeb1.jpg",
+      "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-right-front-6ae27faeb86ac.jpg",
+      "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-right-front-6ae27faeba90f.jpg"
+     ],
+     "byColor": {
+      "Black": [
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-main-6ae27faebbd6f.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-front-6ae27faeb72ac.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-front-6ae27faeb926d.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-front-6ae27faebb3b7.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-left-front-6ae27faeb8c52.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-left-front-6ae27faebaeb1.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-right-front-6ae27faeb86ac.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-right-front-6ae27faeba90f.jpg"
+      ],
+      "Dark Grey": [
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-front-6ae27faeb741a.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-front-6ae27faeb92e9.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-front-6ae27faebb407.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-left-front-6ae27faeb8d15.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-left-front-6ae27faebaf16.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-right-front-6ae27faeb873d.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-right-front-6ae27faeba990.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-back-6ae27faeb78dc.jpg"
+      ],
+      "Khaki": [
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-front-6ae27faeb7456.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-front-6ae27faeb9337.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-front-6ae27faebb438.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-left-front-6ae27faeb8d6f.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-left-front-6ae27faebaf4e.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-right-front-6ae27faeb878e.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-right-front-6ae27faeba9ec.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-back-6ae27faeb7904.jpg"
+      ],
+      "Navy": [
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-navy-front-6ae27faeb7486.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-navy-front-6ae27faeb9391.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-navy-front-6ae27faebb46f.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-navy-left-front-6ae27faeb8dd8.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-navy-left-front-6ae27faebaf80.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-navy-right-front-6ae27faeb87d9.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-navy-right-front-6ae27faebaa3c.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-navy-back-6ae27faeb7930.jpg"
+      ],
+      "Spruce": [
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-spruce-front-6ae27faeb74b4.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-spruce-front-6ae27faeb93de.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-spruce-front-6ae27faebb49b.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-spruce-left-front-6ae27faeb8e36.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-spruce-left-front-6ae27faebafaf.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-spruce-right-front-6ae27faeb8823.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-spruce-right-front-6ae27faebaa8c.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-spruce-back-6ae27faeb7957.jpg"
+      ],
+      "Stone": [
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-stone-front-6ae27faeb74e4.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-stone-front-6ae27faeb9429.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-stone-front-6ae27faebb4d9.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-stone-left-front-6ae27faeb8e8b.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-stone-left-front-6ae27faebafe4.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-stone-right-front-6ae27faeb886d.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-stone-right-front-6ae27faebaadc.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-stone-back-6ae27faeb7981.jpg"
+      ]
+     }
+    }
+   }
+  },
+  "dad-hat-blacked-out": {
+   "name": "Blacked Out - Oak & Stone Unstructured Dad Hat",
+   "depts": {
+    "men": {
+     "all": [
+      "Men/Blacked Out - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-main-6ae28024d8834.jpg",
+      "Men/Blacked Out - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-front-6ae28024d77aa.jpg",
+      "Men/Blacked Out - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-front-6ae28024d8456.jpg",
+      "Men/Blacked Out - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-left-front-6ae28024d8212.jpg",
+      "Men/Blacked Out - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-right-front-6ae28024d8040.jpg",
+      "Men/Blacked Out - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-back-6ae28024d7a34.jpg",
+      "Men/Blacked Out - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-back-6ae28024d8680.jpg",
+      "Men/Blacked Out - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-left-side-6ae28024d7dce.jpg"
+     ],
+     "byColor": {
+      "Black": [
+       "Men/Blacked Out - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-main-6ae28024d8834.jpg",
+       "Men/Blacked Out - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-front-6ae28024d77aa.jpg",
+       "Men/Blacked Out - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-front-6ae28024d8456.jpg",
+       "Men/Blacked Out - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-left-front-6ae28024d8212.jpg",
+       "Men/Blacked Out - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-right-front-6ae28024d8040.jpg",
+       "Men/Blacked Out - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-back-6ae28024d7a34.jpg",
+       "Men/Blacked Out - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-back-6ae28024d8680.jpg",
+       "Men/Blacked Out - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-left-side-6ae28024d7dce.jpg"
+      ]
+     }
+    },
+    "women": {
+     "all": [
+      "Women/Blacked Out - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-main-6ae28024d8834.jpg",
+      "Women/Blacked Out - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-front-6ae28024d77aa.jpg",
+      "Women/Blacked Out - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-front-6ae28024d8456.jpg",
+      "Women/Blacked Out - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-left-front-6ae28024d8212.jpg",
+      "Women/Blacked Out - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-right-front-6ae28024d8040.jpg",
+      "Women/Blacked Out - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-back-6ae28024d7a34.jpg",
+      "Women/Blacked Out - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-back-6ae28024d8680.jpg",
+      "Women/Blacked Out - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-left-side-6ae28024d7dce.jpg"
+     ],
+     "byColor": {
+      "Black": [
+       "Women/Blacked Out - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-main-6ae28024d8834.jpg",
+       "Women/Blacked Out - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-front-6ae28024d77aa.jpg",
+       "Women/Blacked Out - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-front-6ae28024d8456.jpg",
+       "Women/Blacked Out - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-left-front-6ae28024d8212.jpg",
+       "Women/Blacked Out - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-right-front-6ae28024d8040.jpg",
+       "Women/Blacked Out - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-back-6ae28024d7a34.jpg",
+       "Women/Blacked Out - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-back-6ae28024d8680.jpg",
+       "Women/Blacked Out - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-left-side-6ae28024d7dce.jpg"
+      ]
+     }
+    }
+   }
+  },
+  "shorts-i-see-you-white": {
+   "name": "I See You - Oak & Stone White Biker Shorts",
+   "depts": {
+    "women": {
+     "all": [
+      "Women/I See You - Oak & Stone White Biker Shorts/all-over-print-shorts-white-main-6ae2810c61bb9.jpg",
+      "Women/I See You - Oak & Stone White Biker Shorts/all-over-print-shorts-white-front-6ae2810c614cc.jpg",
+      "Women/I See You - Oak & Stone White Biker Shorts/all-over-print-shorts-white-front-6ae2810c61d04.jpg",
+      "Women/I See You - Oak & Stone White Biker Shorts/all-over-print-shorts-white-back-6ae2810c6182c.jpg",
+      "Women/I See You - Oak & Stone White Biker Shorts/all-over-print-shorts-white-back-6ae2810c61e53.jpg",
+      "Women/I See You - Oak & Stone White Biker Shorts/all-over-print-shorts-white-left-6ae2810c61a11.jpg"
+     ],
+     "byColor": null
+    }
+   }
+  },
+  "leggings-i-see-you-white": {
+   "name": "I See You - Oak & Stone Graphic Print, White Leggings",
+   "depts": {
+    "women": {
+     "all": [
+      "Women/I See You - Oak & Stone Graphic Print, White Leggings/all-over-print-leggings-white-main-6ae281db62906.jpg",
+      "Women/I See You - Oak & Stone Graphic Print, White Leggings/all-over-print-leggings-white-left-front-2-6ae281db63068.jpg",
+      "Women/I See You - Oak & Stone Graphic Print, White Leggings/all-over-print-leggings-white-left-front-6ae281db62cc5.jpg",
+      "Women/I See You - Oak & Stone Graphic Print, White Leggings/all-over-print-leggings-white-flat-lifestyle-6ae281db624fd.jpg",
+      "Women/I See You - Oak & Stone Graphic Print, White Leggings/all-over-print-leggings-white-left-6ae281db6340c.jpg"
+     ],
+     "byColor": null
+    }
+   }
+  },
+  "shorts-i-see-you-black": {
+   "name": "I See You - Oak & Stone Black Biker Shorts",
+   "depts": {
+    "women": {
+     "all": [
+      "Women/I See You - Oak & Stone Black Biker Shorts/all-over-print-shorts-white-main-6ae282ab5298a.jpg",
+      "Women/I See You - Oak & Stone Black Biker Shorts/all-over-print-shorts-white-front-6ae282ab51b2d.jpg",
+      "Women/I See You - Oak & Stone Black Biker Shorts/all-over-print-shorts-white-front-6ae282ab52d90.jpg",
+      "Women/I See You - Oak & Stone Black Biker Shorts/all-over-print-shorts-white-back-6ae282ab52063.jpg",
+      "Women/I See You - Oak & Stone Black Biker Shorts/all-over-print-shorts-white-back-6ae282ab5321f.jpg",
+      "Women/I See You - Oak & Stone Black Biker Shorts/all-over-print-shorts-white-left-6ae282ab52527.jpg"
+     ],
+     "byColor": null
+    }
+   }
+  },
+  "leggings-i-see-you-black": {
+   "name": "I See You - Oak & Stone Graphic Print, Black Leggings",
+   "depts": {
+    "women": {
+     "all": [
+      "Women/I See You - Oak & Stone Graphic Print, Black Leggings/all-over-print-leggings-white-main-6ae282fe1da07.jpg",
+      "Women/I See You - Oak & Stone Graphic Print, Black Leggings/all-over-print-leggings-white-left-front-2-6ae282fe1dcb7.jpg",
+      "Women/I See You - Oak & Stone Graphic Print, Black Leggings/all-over-print-leggings-white-left-front-6ae282fe1db5d.jpg",
+      "Women/I See You - Oak & Stone Graphic Print, Black Leggings/all-over-print-leggings-white-flat-lifestyle-6ae282fe1d77e.jpg",
+      "Women/I See You - Oak & Stone Graphic Print, Black Leggings/all-over-print-leggings-white-left-6ae282fe1ddf1.jpg"
+     ],
+     "byColor": null
+    }
+   }
+  }
+ }
+}
