@@ -3117,10 +3117,32 @@ const revealObserver = new IntersectionObserver((entries) => {
   entries.forEach(entry => { if(entry.isIntersecting) entry.target.classList.add("in-view"); });
 }, { threshold: 0.15 });
 
+/* Product family sorting */
+const FAMILIES = [
+  { test: /hoodie|sweatshirt/i,     name: "Hoodies",         rank: 3 },
+  { test: /crop/i,                  name: "Crop tops",       rank: 2 },
+  { test: /sweatpant|jogger/i,      name: "Sweatpants",      rank: 4 },
+  { test: /legging|yoga/i,          name: "Leggings & yoga", rank: 5 },
+  { test: /biker short|shorts?\b/i, name: "Shorts",          rank: 6 },
+  { test: /tee|t-shirt|shirt/i,     name: "Tees",            rank: 1 },
+  { test: /hat|cap|beanie/i,        name: "Hats",            rank: 7 }
+];
+function familyOf(p){
+  const n = displayName(p);
+  for(const f of FAMILIES) if(f.test.test(n)) return f;
+  return null;
+}
+/* Anything the patterns do not recognise sorts to the end rather than being
+   dropped or silently landing among the tees. */
+const familyRank = (p) => { const f = familyOf(p); return f ? f.rank : 99; };
+const byFamily = (a, b) =>
+  familyRank(a) - familyRank(b) || displayName(a).localeCompare(displayName(b));
+
 function renderGrid(containerId, products, subFilter){
   const el = document.getElementById(containerId);
   const pageKey = containerId.replace(/^grid-/, "");
-  const filtered = (!subFilter || subFilter === "all") ? products : products.filter(p => p.sub === subFilter);
+  const filtered = ((!subFilter || subFilter === "all") ? products : products.filter(p => p.sub === subFilter))
+    .slice().sort(byFamily);
   if(filtered.length === 0){
     el.innerHTML = `<p style="grid-column:1/-1; font-family:'IBM Plex Mono'; font-size:0.8rem; color:var(--text-dim-dark);">No products in this category yet — check back soon.</p>`;
     return;
