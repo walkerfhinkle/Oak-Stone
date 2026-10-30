@@ -3138,9 +3138,10 @@ const familyRank = (p) => { const f = familyOf(p); return f ? f.rank : 99; };
 const byFamily = (a, b) =>
   familyRank(a) - familyRank(b) || displayName(a).localeCompare(displayName(b));
 
-function renderGrid(containerId, products, subFilter){
+function renderGrid(containerId, products, subFilter, deptOverride){
   const el = document.getElementById(containerId);
-  const pageKey = containerId.replace(/^grid-/, "");
+  const el = document.getElementById(containerId);
+  const pageKey = deptOverride || containerId.replace(/^grid-/, "");
   const filtered = ((!subFilter || subFilter === "all") ? products : products.filter(p => p.sub === subFilter))
     .slice().sort(byFamily);
   if(filtered.length === 0){
@@ -3258,7 +3259,8 @@ function renderAllProducts(){
   else if(allFilters.cat === "women") filtered = filtered.filter(p => p.cat === "women" || p.cat === "unisex");
   else if(allFilters.cat === "kids")  filtered = [];
   if(allFilters.type !== "all") filtered = filtered.filter(p => p.sub === allFilters.type);
-  renderGrid("grid-all", filtered);
+  const dept = (allFilters.cat === "men" || allFilters.cat === "women") ? allFilters.cat : null;
+  renderGrid("grid-all", filtered, null, dept);
 }
 
 function syncAllFilterUI(){
