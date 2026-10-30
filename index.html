@@ -3140,7 +3140,6 @@ const byFamily = (a, b) =>
 
 function renderGrid(containerId, products, subFilter, deptOverride){
   const el = document.getElementById(containerId);
-  const el = document.getElementById(containerId);
   const pageKey = deptOverride || containerId.replace(/^grid-/, "");
   const filtered = ((!subFilter || subFilter === "all") ? products : products.filter(p => p.sub === subFilter))
     .slice().sort(byFamily);
