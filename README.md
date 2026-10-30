@@ -1,10 +1,5 @@
 # Oak & Stone — site v2.5
 
-Everything in this folder is what gets published to GitHub Pages. It contains
-no secrets and cannot contain any: it's static files served to browsers, so
-anything here is public whether the repo is or not. The Printful token and
-Stripe keys live in the checkout service on Cloudflare, not here.
-
 ## What changed from v1.3
 
 **Product cards.** Price and colour swatches now sit above a full-width centred
