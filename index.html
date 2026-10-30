@@ -3386,6 +3386,7 @@ function cartSubtotal(){ return CART.reduce((n, l) => n + l.unit * l.qty, 0); }
 function addToCart(p, color, size, qty, opts){
   qty = Math.max(1, Math.min(Number(qty) || 1, 10));
   const silent = !!(opts && opts.silent);
+  const dept = (opts && opts.dept) || deptFor(p, lastGridPage);
   const sku = variantSku(p, color, size);
   const found = CART.find(l => l.sku === sku);
   if(found){ found.qty = Math.min(found.qty + qty, 10); }
@@ -3397,7 +3398,7 @@ function addToCart(p, color, size, qty, opts){
       unit: priceToCents(p.price),
       color: color || "",
       size: size || "",
-      image: (imgList(p)[0] || [""])[0]
+      image: (imgList(p, dept, color)[0] || [""])[0]
     });
   }
   saveCart(CART);
@@ -3662,7 +3663,7 @@ function wirePdpOptions(p){
     });
   });
   const add = document.getElementById("addToCart");
-  if(add) add.addEventListener("click", () => addToCart(p, color, size, pdpQty));
+  if(add) add.addEventListener("click", () => addToCart(p, color, size, pdpQty, { dept: pdpDept }));
 }
 
 /* ---- card swatch preview ---- */
@@ -3760,20 +3761,25 @@ function wirePdpQty(){
   });
 }
 
+function deptFromBox(box){
+  const card = box && box.closest(".product-card");
+  return (card && card.dataset.dept) || null;
+}
+
 function cardAdd(id, box){
   const p = bySlug[id];
   if(!p) return;
   const sizes = p.sizes || [];
   if(sizes.length > 1){ showCardSizes(id, box); return; }
-  commitCardAdd(id, sizes[0] || "One Size");
+  commitCardAdd(id, sizes[0] || "One Size", deptFromBox(box));
 }
 
-function commitCardAdd(id, size){
+function commitCardAdd(id, size, dept){
   const p = bySlug[id];
   if(!p) return;
   const color = (p.colors && p.colors[0] && p.colors[0].name) || "";
   const many = (p.colors || []).length > 1;
-  addToCart(p, color, size, 1, { silent: true });
+  addToCart(p, color, size, 1, { silent: true, dept });
   toast({
     title: "Added to cart",
     body: `${displayName(p)} &middot; <strong>${esc(size)}</strong>${color ? " &middot; " + esc(color) : ""}`
@@ -3803,7 +3809,7 @@ function showCardSizes(id, box){
   row.querySelectorAll(".card-size").forEach(b => {
     b.addEventListener("click", (e) => {
       e.stopPropagation();
-      commitCardAdd(id, b.dataset.size);
+      commitCardAdd(id, b.dataset.size, deptFromBox(box));
       restore();
     });
   });
