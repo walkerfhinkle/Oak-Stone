@@ -3335,7 +3335,7 @@ document.getElementById("year").textContent = new Date().getFullYear();
    quantities, get back a Stripe Checkout URL, redirect.
    ====================================================================== */
 
-const API_BASE = "";
+const API_BASE = "https://oak-stone-checkout.oakandstone.workers.dev";
 
 const money = cents => "$" + (cents / 100).toFixed(2);
 const priceToCents = s => Math.round(parseFloat(String(s).replace(/[^0-9.]/g, "")) * 100) || 0;
