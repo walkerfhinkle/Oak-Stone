@@ -1352,10 +1352,10 @@ const CONFIG = {
 const PRODUCTS = [
  {
   "id": "denim-t-shirt-resurface",
-  "name": "Unisex Denim Style T-Shirt, Resurface Graphic, Combed Cotton Crew Neck",
+  "name": "Unisex Denim Style T-Shirt, Resurface Embroidery, Combed Cotton Crew Neck",
   "short": "Denim T-Shirt - resurface",
   "baseSku": "6ADB913EDED6C",
-  "cat": "unisex",
+  "cat": "men",
   "sub": "shirts",
   "price": "$33.99",
   "sizes": [
@@ -1388,12 +1388,12 @@ const PRODUCTS = [
    "Ribbed Sleeve Cuffs",
    "Rounded Crew Neckline"
   ],
-  "desc": "Unisex denim-style t-shirt in 100% combed cotton, carrying the Resurface graphic. A rounded crew neckline and ribbed sleeve cuffs give it a finished edge. Sizes S to 2XL. Available in Black, Garnet Red, Dark Army Green and Denim Blue. Machine wash cold, tumble dry low.",
+  "desc": "Unisex denim-style t-shirt in 100% combed cotton, carrying the Resurface embroidery. A rounded crew neckline and ribbed sleeve cuffs give it a finished edge. Sizes S to 2XL. Available in Black, Garnet Red, Dark Army Green and Denim Blue. Machine wash cold, tumble dry low.",
   "bullets": [
    "COMBED COTTON - Body is 100% combed cotton.",
    "RIBBED SLEEVE CUFFS - Sleeve openings are finished with a ribbed cuff.",
    "ROUNDED CREW NECKLINE - Classic rounded neckline.",
-   "GRAPHIC PRINT - The Resurface graphic.",
+   "EMBROIDERED PRINT - The Resurface embroidery.",
    "SIZES S to 2XL - Available in Black, Garnet Red, Dark Army Green and Denim Blue. Machine wash cold."
   ],
   "material": "100% combed cotton",
@@ -2855,7 +2855,7 @@ const PRODUCTS = [
 
 const LIVE    = PRODUCTS.filter(p => !p.hidden);
 const WOMEN = LIVE.filter(p => p.cat === "women" || p.cat === "unisex");
-const MEN   = LIVE.filter(p => p.cat === "unisex");
+const MEN = LIVE.filter(p => p.cat === "unisex" || p.cat === "men");
 const KIDS = [], VETERANS = [], GEAR = [];
 
 
@@ -3253,7 +3253,7 @@ const ALL_TYPE_LABELS = { all:"All Types", shirts:"Shirts", bottoms:"Bottoms", o
 
 function renderAllProducts(){
   let filtered = ALL_PRODUCTS;
-  if(allFilters.cat === "men")        filtered = filtered.filter(p => p.cat === "unisex");
+  if(allFilters.cat === "men") filtered = filtered.filter(p => p.cat === "unisex" || p.cat === "men");
   else if(allFilters.cat === "women") filtered = filtered.filter(p => p.cat === "women" || p.cat === "unisex");
   else if(allFilters.cat === "kids")  filtered = [];
   if(allFilters.type !== "all") filtered = filtered.filter(p => p.sub === allFilters.type);
