@@ -1,6 +1,6 @@
 {
  "version": 2,
- "generated_at": "2026-11-06T20:19:48.700Z",
+ "generated_at": "2026-11-06T20:42:38.038Z",
  "products": {
   "denim-t-shirt-resurface": {
    "name": "Resurface - Oak & Stone Denim Tee",
@@ -43,48 +43,6 @@
        "Men/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-garnet-red-left-front-6adca1ee77d7f.jpg",
        "Men/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-garnet-red-back-6adca1ee76f49.jpg",
        "Men/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-garnet-red-back-6adca1ee77856.jpg"
-      ]
-     }
-    },
-    "women": {
-     "all": [
-      "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-black-main-6ae3b4c06135f.jpg",
-      "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-black-front-6ae3b4c061c0e.jpg",
-      "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-dark-army-green-front-6ae3b4c0614ef.jpg",
-      "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-dark-army-green-front-6ae3b4c062021.jpg",
-      "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-denim-blue-front-6ae3b4c06152f.jpg",
-      "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-denim-blue-front-6ae3b4c0623b7.jpg",
-      "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-garnet-red-front-6ae3b4c061562.jpg",
-      "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-garnet-red-front-6ae3b4c062773.jpg"
-     ],
-     "byColor": {
-      "Black": [
-       "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-black-main-6ae3b4c06135f.jpg",
-       "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-black-front-6ae3b4c061c0e.jpg",
-       "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-black-back-6ae3b4c062c6d.jpg",
-       "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-black-zoomed-in-2-6ae3b4c06198b.jpg",
-       "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-black-zoomed-in-6ae3b4c06171e.jpg"
-      ],
-      "Dark Army Green": [
-       "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-dark-army-green-front-6ae3b4c0614ef.jpg",
-       "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-dark-army-green-front-6ae3b4c062021.jpg",
-       "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-dark-army-green-back-6ae3b4c062cb8.jpg",
-       "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-dark-army-green-zoomed-in-2-6ae3b4c0619ec.jpg",
-       "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-dark-army-green-zoomed-in-6ae3b4c061763.jpg"
-      ],
-      "Denim Blue": [
-       "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-denim-blue-front-6ae3b4c06152f.jpg",
-       "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-denim-blue-front-6ae3b4c0623b7.jpg",
-       "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-denim-blue-back-6ae3b4c062cf4.jpg",
-       "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-denim-blue-zoomed-in-2-6ae3b4c061a25.jpg",
-       "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-denim-blue-zoomed-in-6ae3b4c061797.jpg"
-      ],
-      "Garnet Red": [
-       "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-garnet-red-front-6ae3b4c061562.jpg",
-       "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-garnet-red-front-6ae3b4c062773.jpg",
-       "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-garnet-red-back-6ae3b4c062d37.jpg",
-       "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-garnet-red-zoomed-in-2-6ae3b4c061a5a.jpg",
-       "Women/Resurface - Oak & Stone Denim Tee/unisex-denim-t-shirt-garnet-red-zoomed-in-6ae3b4c0617c6.jpg"
       ]
      }
     }
@@ -1389,77 +1347,147 @@
   "dad-hat-front-back": {
    "name": "Front/Back - Oak & Stone Unstructured Dad Hat",
    "depts": {
-    "women": {
+    "men": {
      "all": [
-      "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-main-6ae27faebbd6f.jpg",
-      "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-front-6ae27faeb72ac.jpg",
-      "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-front-6ae27faeb926d.jpg",
-      "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-front-6ae27faebb3b7.jpg",
-      "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-left-front-6ae27faeb8c52.jpg",
-      "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-left-front-6ae27faebaeb1.jpg",
-      "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-right-front-6ae27faeb86ac.jpg",
-      "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-right-front-6ae27faeba90f.jpg"
+      "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-main-6ae27faebb3b7.jpg",
+      "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-front-6ae27faeb926d.jpg",
+      "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-right-front-6ae27faeba90f.jpg",
+      "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-front-6ae27faeb741a.jpg",
+      "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-front-6ae27faebb407.jpg",
+      "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-right-front-6ae27faeba990.jpg",
+      "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-front-6ae27faeb9337.jpg",
+      "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-front-6ae27faebb438.jpg"
      ],
      "byColor": {
       "Black": [
-       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-main-6ae27faebbd6f.jpg",
-       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-front-6ae27faeb72ac.jpg",
+       "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-main-6ae27faebb3b7.jpg",
+       "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-front-6ae27faeb926d.jpg",
+       "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-right-front-6ae27faeba90f.jpg",
+       "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-back-6ae27faeb789e.jpg",
+       "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-back-6ae27faebb87e.jpg",
+       "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-left-side-6ae27faeba356.jpg",
+       "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-right-side-6ae27faeb7d0d.jpg",
+       "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-product-details-6ae27faebc81f.jpg"
+      ],
+      "Dark Grey": [
+       "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-front-6ae27faeb741a.jpg",
+       "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-front-6ae27faebb407.jpg",
+       "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-right-front-6ae27faeba990.jpg",
+       "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-back-6ae27faeb9857.jpg",
+       "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-back-6ae27faebb8ce.jpg",
+       "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-left-side-6ae27faeba3d3.jpg",
+       "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-right-side-6ae27faeb9e04.jpg",
+       "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-product-details-6ae27faebc8c3.jpg"
+      ],
+      "Khaki": [
+       "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-front-6ae27faeb9337.jpg",
+       "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-front-6ae27faebb438.jpg",
+       "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-right-front-6ae27faeb878e.jpg",
+       "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-back-6ae27faeb7904.jpg",
+       "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-back-6ae27faebb8f5.jpg",
+       "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-left-side-6ae27faeb8239.jpg",
+       "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-right-side-6ae27faeb9e56.jpg",
+       "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-product-details-6ae27faebc920.jpg"
+      ],
+      "Navy": [
+       "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-navy-front-6ae27faeb9391.jpg",
+       "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-navy-front-6ae27faebb46f.jpg",
+       "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-navy-back-6ae27faeb98e8.jpg",
+       "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-navy-back-6ae27faebb91b.jpg",
+       "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-navy-left-side-6ae27faeba474.jpg",
+       "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-navy-right-side-6ae27faeb7db6.jpg",
+       "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-navy-product-details-6ae27faebc97f.jpg"
+      ],
+      "Spruce": [
+       "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-spruce-front-6ae27faeb93de.jpg",
+       "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-spruce-front-6ae27faebb49b.jpg",
+       "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-spruce-right-front-6ae27faebaa8c.jpg",
+       "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-spruce-back-6ae27faeb9928.jpg",
+       "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-spruce-back-6ae27faebb950.jpg",
+       "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-spruce-left-side-6ae27faeba4c1.jpg",
+       "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-spruce-right-side-6ae27faeb9ef6.jpg",
+       "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-spruce-product-details-6ae27faebc9d7.jpg"
+      ],
+      "Stone": [
+       "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-stone-front-6ae27faeb74e4.jpg",
+       "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-stone-front-6ae27faebb4d9.jpg",
+       "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-stone-back-6ae27faeb7981.jpg",
+       "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-stone-back-6ae27faebb98c.jpg",
+       "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-stone-left-side-6ae27faeba51f.jpg",
+       "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-stone-right-side-6ae27faeb9f44.jpg",
+       "Men/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-stone-product-details-6ae27faebca35.jpg"
+      ]
+     }
+    },
+    "women": {
+     "all": [
+      "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-main-6ae27faebb3b7.jpg",
+      "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-front-6ae27faeb926d.jpg",
+      "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-right-front-6ae27faeba90f.jpg",
+      "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-front-6ae27faeb741a.jpg",
+      "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-front-6ae27faebb407.jpg",
+      "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-right-front-6ae27faeba990.jpg",
+      "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-front-6ae27faeb9337.jpg",
+      "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-front-6ae27faebb438.jpg"
+     ],
+     "byColor": {
+      "Black": [
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-main-6ae27faebb3b7.jpg",
        "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-front-6ae27faeb926d.jpg",
-       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-front-6ae27faebb3b7.jpg",
-       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-left-front-6ae27faeb8c52.jpg",
-       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-left-front-6ae27faebaeb1.jpg",
-       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-right-front-6ae27faeb86ac.jpg",
-       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-right-front-6ae27faeba90f.jpg"
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-right-front-6ae27faeba90f.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-back-6ae27faeb789e.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-back-6ae27faebb87e.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-left-side-6ae27faeba356.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-right-side-6ae27faeb7d0d.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-black-product-details-6ae27faebc81f.jpg"
       ],
       "Dark Grey": [
        "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-front-6ae27faeb741a.jpg",
-       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-front-6ae27faeb92e9.jpg",
        "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-front-6ae27faebb407.jpg",
-       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-left-front-6ae27faeb8d15.jpg",
-       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-left-front-6ae27faebaf16.jpg",
-       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-right-front-6ae27faeb873d.jpg",
        "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-right-front-6ae27faeba990.jpg",
-       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-back-6ae27faeb78dc.jpg"
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-back-6ae27faeb9857.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-back-6ae27faebb8ce.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-left-side-6ae27faeba3d3.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-right-side-6ae27faeb9e04.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-dark-grey-product-details-6ae27faebc8c3.jpg"
       ],
       "Khaki": [
-       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-front-6ae27faeb7456.jpg",
        "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-front-6ae27faeb9337.jpg",
        "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-front-6ae27faebb438.jpg",
-       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-left-front-6ae27faeb8d6f.jpg",
-       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-left-front-6ae27faebaf4e.jpg",
        "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-right-front-6ae27faeb878e.jpg",
-       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-right-front-6ae27faeba9ec.jpg",
-       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-back-6ae27faeb7904.jpg"
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-back-6ae27faeb7904.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-back-6ae27faebb8f5.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-left-side-6ae27faeb8239.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-right-side-6ae27faeb9e56.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-khaki-product-details-6ae27faebc920.jpg"
       ],
       "Navy": [
-       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-navy-front-6ae27faeb7486.jpg",
        "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-navy-front-6ae27faeb9391.jpg",
        "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-navy-front-6ae27faebb46f.jpg",
-       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-navy-left-front-6ae27faeb8dd8.jpg",
-       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-navy-left-front-6ae27faebaf80.jpg",
-       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-navy-right-front-6ae27faeb87d9.jpg",
-       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-navy-right-front-6ae27faebaa3c.jpg",
-       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-navy-back-6ae27faeb7930.jpg"
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-navy-back-6ae27faeb98e8.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-navy-back-6ae27faebb91b.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-navy-left-side-6ae27faeba474.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-navy-right-side-6ae27faeb7db6.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-navy-product-details-6ae27faebc97f.jpg"
       ],
       "Spruce": [
-       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-spruce-front-6ae27faeb74b4.jpg",
        "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-spruce-front-6ae27faeb93de.jpg",
        "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-spruce-front-6ae27faebb49b.jpg",
-       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-spruce-left-front-6ae27faeb8e36.jpg",
-       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-spruce-left-front-6ae27faebafaf.jpg",
-       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-spruce-right-front-6ae27faeb8823.jpg",
        "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-spruce-right-front-6ae27faebaa8c.jpg",
-       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-spruce-back-6ae27faeb7957.jpg"
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-spruce-back-6ae27faeb9928.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-spruce-back-6ae27faebb950.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-spruce-left-side-6ae27faeba4c1.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-spruce-right-side-6ae27faeb9ef6.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-spruce-product-details-6ae27faebc9d7.jpg"
       ],
       "Stone": [
        "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-stone-front-6ae27faeb74e4.jpg",
-       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-stone-front-6ae27faeb9429.jpg",
        "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-stone-front-6ae27faebb4d9.jpg",
-       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-stone-left-front-6ae27faeb8e8b.jpg",
-       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-stone-left-front-6ae27faebafe4.jpg",
-       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-stone-right-front-6ae27faeb886d.jpg",
-       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-stone-right-front-6ae27faebaadc.jpg",
-       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-stone-back-6ae27faeb7981.jpg"
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-stone-back-6ae27faeb7981.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-stone-back-6ae27faebb98c.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-stone-left-side-6ae27faeba51f.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-stone-right-side-6ae27faeb9f44.jpg",
+       "Women/FrontBack - Oak & Stone Unstructured Dad Hat/classic-dad-hat-stone-product-details-6ae27faebca35.jpg"
       ]
      }
     }
