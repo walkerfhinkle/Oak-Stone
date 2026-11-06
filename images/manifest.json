@@ -1,6 +1,6 @@
 {
  "version": 2,
- "generated_at": "2026-10-29T23:16:01.032Z",
+ "generated_at": "2026-11-06T20:19:48.700Z",
  "products": {
   "denim-t-shirt-resurface": {
    "name": "Resurface - Oak & Stone Denim Tee",
@@ -184,6 +184,24 @@
       "Women/I See You - Oak & Stone Black Yoga Pants/all-over-print-yoga-leggings-white-back-6adca36f20126.jpg",
       "Women/I See You - Oak & Stone Black Yoga Pants/all-over-print-yoga-leggings-white-left-6adca36f1f939.jpg",
       "Women/I See You - Oak & Stone Black Yoga Pants/all-over-print-yoga-leggings-white-left-6adca36f20fcf.jpg"
+     ],
+     "byColor": null
+    }
+   }
+  },
+  "yoga-leggings-i-see-you-white": {
+   "name": "I See You- Oak & Stone White Yoga Pants",
+   "depts": {
+    "women": {
+     "all": [
+      "Women/I See You - Oak & Stone White Yoga Pants/all-over-print-yoga-leggings-white-main-6aee32c89ebff.jpg",
+      "Women/I See You - Oak & Stone White Yoga Pants/all-over-print-yoga-leggings-white-front-6aee32c89c7b8.jpg",
+      "Women/I See You - Oak & Stone White Yoga Pants/all-over-print-yoga-leggings-white-front-6aee32c89da4f.jpg",
+      "Women/I See You - Oak & Stone White Yoga Pants/all-over-print-yoga-leggings-white-front-6aee32c89e2de.jpg",
+      "Women/I See You - Oak & Stone White Yoga Pants/all-over-print-yoga-leggings-white-front-6aee32c89e74e.jpg",
+      "Women/I See You - Oak & Stone White Yoga Pants/all-over-print-yoga-leggings-white-left-front-6aee32c89f54c.jpg",
+      "Women/I See You - Oak & Stone White Yoga Pants/all-over-print-yoga-leggings-white-back-6aee32c89d636.jpg",
+      "Women/I See You - Oak & Stone White Yoga Pants/all-over-print-yoga-leggings-white-back-6aee32c89deb5.jpg"
      ],
      "byColor": null
     }
@@ -1041,52 +1059,40 @@
     },
     "women": {
      "all": [
-      "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pistachio-front-and-main-6ae2725612f0c.jpg",
-      "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-burro-front-6ae272561234a.jpg",
-      "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-burro-front-6ae272561279e.jpg",
       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-burro-front-6ae27256128f0.jpg",
       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-burro-front-6ae2725612c13.jpg",
       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-burro-front-and-back-6ae27256124f1.jpg",
-      "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-burro-front-and-back-6ae2725612977.jpg",
-      "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pebble-blue-front-6ae2725611a84.jpg"
+      "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pebble-blue-front-6ae2725611a84.jpg",
+      "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pebble-blue-front-6ae27256122ff.jpg",
+      "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pebble-blue-front-and-back-6ae2725611e3b.jpg",
+      "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pistachio-front-6ae2725613456.jpg",
+      "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pistachio-front-6ae27256136dd.jpg"
      ],
      "byColor": {
-      "Pistachio": [
-       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pistachio-front-and-main-6ae2725612f0c.jpg",
-       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pistachio-front-6ae2725612ca0.jpg",
-       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pistachio-front-6ae2725613456.jpg",
-       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pistachio-front-6ae27256136dd.jpg",
-       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pistachio-front-6ae2725613cea.jpg",
-       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pistachio-front-and-back-6ae272561381e.jpg",
-       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pistachio-back-6ae2725612dcc.jpg",
-       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pistachio-back-6ae27256132f7.jpg"
-      ],
       "Burro": [
-       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-burro-front-6ae272561234a.jpg",
-       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-burro-front-6ae272561279e.jpg",
        "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-burro-front-6ae27256128f0.jpg",
        "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-burro-front-6ae2725612c13.jpg",
        "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-burro-front-and-back-6ae27256124f1.jpg",
-       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-burro-front-and-back-6ae2725612977.jpg",
        "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-burro-back-6ae272561240d.jpg",
-       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-burro-back-6ae2725612717.jpg"
+       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-burro-back-6ae2725612b81.jpg"
       ],
       "Pebble Blue": [
        "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pebble-blue-front-6ae2725611a84.jpg",
-       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pebble-blue-front-6ae272561202d.jpg",
-       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pebble-blue-front-6ae2725612120.jpg",
        "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pebble-blue-front-6ae27256122ff.jpg",
        "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pebble-blue-front-and-back-6ae2725611e3b.jpg",
-       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pebble-blue-front-and-back-6ae272561217b.jpg",
        "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pebble-blue-back-6ae2725611dba.jpg",
        "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pebble-blue-back-6ae2725611fb6.jpg"
       ],
+      "Pistachio": [
+       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pistachio-front-6ae2725613456.jpg",
+       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pistachio-front-6ae27256136dd.jpg",
+       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pistachio-front-and-back-6ae272561381e.jpg",
+       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pistachio-back-6ae2725612dcc.jpg",
+       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-pistachio-back-6ae2725613bb0.jpg"
+      ],
       "White": [
        "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-white-front-6ae2725613df3.jpg",
-       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-white-front-6ae272561472e.jpg",
-       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-white-front-6ae2725614a33.jpg",
        "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-white-front-6ae27256152ad.jpg",
-       "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-white-front-and-back-6ae2725614135.jpg",
        "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-white-front-and-back-6ae2725614be0.jpg",
        "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-white-back-6ae2725613f94.jpg",
        "Women/Oak & Stone Basic Light Sweatpants/unisex-urban-sweatpants-white-back-6ae27256145b1.jpg"
